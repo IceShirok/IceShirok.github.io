@@ -7,11 +7,11 @@ Hi folks, welcome back to **War(un)lock** blog #4. I’ve officially completed a
 
 ### What I’ve been up to
 
-The past two weeks have been relatively uneventful, or at least what I perceive to be relatively uneventful. NYC has bounced between a scorching hot 90ºF to a rainy 40ºF on Memorial Day Weekend, which left me to stay indoors more often than I would like to. However, it was a good opportunity to sip on some (iced) tea, take online courses, doodle a sketch, or just chill. It was a good reminder to know that even with the plans and schedules that I’ve set up, there are times to bend the rules on occasion.
+The past two weeks have been relatively uneventful, or at least what I perceive to be relatively uneventful. NYC has bounced between a scorching hot 90ºF to a rainy 40ºF on Memorial Day Weekend, which left me to stay indoors more often than I would like to. However, it was a good opportunity to sip on some (iced) tea, take online courses, doodle a sketch, or just chill. It was a good reminder to know that even with the schedule that I’ve set up to structure my day-to-day, there are times to add some flexibility.
 
 On one of the days that I could hit that sweet spot of 60º weather, I was able to jog a total of 10 kilometers in 3 25-minute intervals, which is a personal record for me! The last 2 miles were rough as I was literally hitting an uphill battle, but I did achieve the jog in 74 minutes. I haven’t been able to achieve those results consistently, but I’m happy to go out for a walk or jog whenever I’m not getting baked or frozen.
 
-As NYC businesses start to plan street block community events, I’ve also been starting to plan more events for the next few months, both within and without NYC. (It didn’t help when some of the YouTube videos I’ve watched were travel vlogs, so the wanderlust has been stoked.) Stay tuned!
+As NYC businesses start to plan street block community events, I’ve also been starting to plan more activities for the next few months, both within and without NYC. (It didn’t help when some of the YouTube videos I’ve watched were travel vlogs, so my wanderlust has been stoked.) Stay tuned for these blog posts!
 
 ### What I’ve learned
 
@@ -27,15 +27,13 @@ At that point, those terms tossed me into a rabbit hole. Especially [re: me read
 
 Water is known as the “universal solvent”. When water freezes, the water molecules rearrange themselves in a regular pattern. This same regular pattern increases the volume of ice, and is what allows ice to float on water.
 
-In [freezing point depression](https://en.m.wikipedia.org/wiki/Freezing-point_depression), when a substance is dissolved (solute) into water (solvent), the solute particles interferes with the water particles’ ability to rearrange into that regular pattern when freezing. Lowering the temperature, or removing more energy from the water, would be needed for the water particles to pack into a solid. (Note that this phenomenon happens with any proper solution, but a solution of water and salt is very common.)
+In [freezing point depression](https://en.m.wikipedia.org/wiki/Freezing-point_depression), when a substance is dissolved (solute) into water (solvent), the solute particles interferes with the water particles’ ability to rearrange into that regular pattern when freezing. Lowering the temperature, or removing more energy from the water, would be needed for the water particles to pack into a solid. (Note that this phenomenon happens with any proper solution, but a solution of water and salt is very common.) This same property is also why rock salt and sand are tossed on the streets during the winter - to prevent ice from forming.
 
-<img src="/images/blog4-collagative_properties.jpg" width="400">
+<img src="/images/blog4-collagative_properties.jpg" width="600">
 
-This same property is also why rock salt and sand are tossed on the streets - to prevent ice from forming unless it is obscenely cold outside.
+I wouldn’t recommend adding sand or other commercial street defrosters to the homemade ice cream recipe though. Recommandations say that [rock salt would be the best salt to use](https://www.thoughtco.com/how-to-make-ice-cream-in-a-bag-602195) for both making ice cream and defrosting your sidewalks. Other kinds of salts, [like calcium chloride](https://www.peterschemical.com/calcium-chloride-vs-rock-salt-which-do-you-use/), can be used to make better ice cream.
 
-I [wouldn’t recommend adding sand or other commercial street defrosters to the homemade ice cream recipe though](https://www.thoughtco.com/how-to-make-ice-cream-in-a-bag-602195). Recommandations say that rock salt would be the best salt to use for both making ice cream and defrosting your sidewalks. Other kinds of salts, [like calcium chloride](https://www.peterschemical.com/calcium-chloride-vs-rock-salt-which-do-you-use/), can be used to make better ice cream.
-
-In essence, there are some cool science properties that can make good ice cream!
+There are some cool science properties that can make good ice cream. However, I'll make sure to restock my freezer with ice cream to prepare for the summer heat waves.
 
 ### What I’ve seen
 
@@ -49,6 +47,8 @@ On the right is a katsudon (combination of [oyakodon](https://www.allrecipes.com
 
 ### A chapter closed
 
-Thank you for reading this blog post! If you have any questions, feedback, etc. - don’t hesitate to send an email through [susanna@warunlock.com](mailto:susanna@warunlock.com)!
+Thank you for reading this blog post!
+
+Do you have any particular topic that you're interested in? Are you more of a visual person and want more pics? Perhaps you prefer to read more of my nerding out, or more about my day-to-day? Don’t hesitate to send an email through [susanna@warunlock.com](mailto:susanna@warunlock.com) and I promise I'll read your feedback!
 
 Please stay safe, and take care!
