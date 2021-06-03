@@ -15,7 +15,7 @@ As NYC businesses start to plan street block community events, I’ve also been 
 
 ### What I’ve learned
 
-During a heat spell in NYC, I found that my apartment was utterly lacking in ice cream. I did have leftover ingredients that let me make my own strawberry ice cream.
+During a heat spell in NYC, I found that my apartment was utterly lacking in ice cream. I did have leftover ingredients that let me make [my own strawberry ice cream](https://www.food.com/recipe/ice-cream-in-a-bag-340766).
 
 I remember making my own ice cream in an elementary school class, where my ice cream ended up becoming a super salty flavor of vanilla. I made sure to double- and triple-check that no salt would leak into the cream this time around. The final product was still a little runny, but it was delicious ice cream nonetheless.
 
@@ -23,17 +23,17 @@ As I munched on my sweet creation, I had to know - why does shaking a bag of ice
 
 The heavy cream needs a lower temperature than 32ºF, as well as aeration, to solidify into creamy ice cream. Salt added into the ice allows the water to achieve a colder temperature than 32ºF. This phenomenon is due to “colligative properties”, specifically “freezing point depression”.
 
-At that point, those terms tossed me into a rabbit hole. Especially re: me reading this article. What makes water stay colder without freezing when adding salt?
+At that point, those terms tossed me into a rabbit hole. Especially [re: me reading this article](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Solutions_and_Mixtures/Colligative_Properties/Freezing_Point_Depression). What makes water stay colder without freezing when adding salt?
 
 Water is known as the “universal solvent”. When water freezes, the water molecules rearrange themselves in a regular pattern. This same regular pattern increases the volume of ice, and is what allows ice to float on water.
 
-In “freezing point depression”, when a substance is dissolved (solute) into water (solvent), the solute particles interferes with the water particles’ ability to rearrange into that regular pattern when freezing. Lowering the temperature, or removing more energy from the water, would be needed for the water particles to pack into a solid. (Note that this phenomenon happens with any proper solution, but a solution of water and salt is very common.)
+In [freezing point depression](https://en.m.wikipedia.org/wiki/Freezing-point_depression), when a substance is dissolved (solute) into water (solvent), the solute particles interferes with the water particles’ ability to rearrange into that regular pattern when freezing. Lowering the temperature, or removing more energy from the water, would be needed for the water particles to pack into a solid. (Note that this phenomenon happens with any proper solution, but a solution of water and salt is very common.)
 
 <img src="/images/blog4-collagative_properties.jpg" width="400">
 
 This same property is also why rock salt and sand are tossed on the streets - to prevent ice from forming unless it is obscenely cold outside.
 
-I wouldn’t recommend adding sand or other commercial street defrosters to the homemade ice cream recipe though. Recommandations say that rock salt would be the best salt to use for both making ice cream and defrosting your sidewalks. Other kinds of salts, like calcium chloride, can be used to make better ice cream.
+I [wouldn’t recommend adding sand or other commercial street defrosters to the homemade ice cream recipe though](https://www.thoughtco.com/how-to-make-ice-cream-in-a-bag-602195). Recommandations say that rock salt would be the best salt to use for both making ice cream and defrosting your sidewalks. Other kinds of salts, [like calcium chloride](https://www.peterschemical.com/calcium-chloride-vs-rock-salt-which-do-you-use/), can be used to make better ice cream.
 
 In essence, there are some cool science properties that can make good ice cream!
 
@@ -43,12 +43,12 @@ In essence, there are some cool science properties that can make good ice cream!
 
 On the topic of food, the pictures above are two recipes that I’ve made over the past two weeks.
 
-On the left is a high tea setup, inspired by a High Cheese event that I attended a few years ago. It consisted of an assortment of finger sandwiches, a baked camembert, a brie and fig sandwich, a homemade strawberry scone, tea, and hot chocolate. I also learned my eyes are bigger than my stomach, so I definitely had leftovers!
+On the left is a [high tea setup](https://www.bbcgoodfood.com/howto/guide/how-throw-afternoon-tea-party), inspired by a [High Cheese event](https://highteasociety.com/reviews/high-cheese-westin-melbourne-3/) that I attended a few years ago. It consisted of [an assortment of finger sandwiches](https://howtohightea.com/high-tea-sandwiches/), [a baked camembert](https://www.thepetitecook.com/how-to-make-baked-camembert/), [a brie and fig sandwich](https://www.twopeasandtheirpod.com/brie-fig-and-apple-grilled-cheese/), [a homemade strawberry scone](https://sallysbakingaddiction.com/scones-recipe/), tea, and hot chocolate. I also learned my eyes are bigger than my stomach, so I definitely had leftovers!
 
-On the right is a katsudon (combination of an oyakodon and chicken katsu) with miso soup, which I made during the chilly and rainy Memorial Day weekend.
+On the right is a katsudon (combination of [oyakodon](https://www.allrecipes.com/recipe/128589/oyakodon-japanese-chicken-and-egg-rice-bowl/) and [chicken katsu](https://devour.asia/chicken-katsu-step-by-step/)) with miso soup, which I made during the chilly and rainy Memorial Day weekend.
 
 ### A chapter closed
 
-Thank you for reading this blog post! If you have any questions, feedback, etc. - don’t hesitate to send an email through susanna@warunlock.com!
+Thank you for reading this blog post! If you have any questions, feedback, etc. - don’t hesitate to send an email through [susanna@warunlock.com](mailto:susanna@warunlock.com)!
 
 Please stay safe, and take care!
