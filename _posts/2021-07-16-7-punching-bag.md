@@ -5,6 +5,8 @@ title: Punching Bag
 
 Hi folks, welcome to **War(un)lock blog #7**! The month of July has been a relative lull relative to May and June, so this blog post will be a little more rambly than usual. *tl;dr The past two weeks have been like a practice montage. Imagine me as a boxer in an old-school gym and going ham on a punching bag.*
 
+<div style="text-align:center"><img src="/images/blog7/blog7-boxing-doodle.png" width="350"></div>
+
 ### What I’ve been up to
 
 #### Background
@@ -14,7 +16,7 @@ I tend to set a few goals at the start of the month, so I know what kind of acti
 
 Then I looked back at what I wanted to accomplish in my gap year. My initial goal for the gap year was exploration, which meant me trying out a thousand different activities with little zero commitment.
 * For example, I ended up dropping scuba diving certification for the time being. Getting certified in New York is (unsurprisingly) expensive to do, and I won’t be able to travel to a more tropical area this year.
-* * In contrast, cooking was something I didn’t expect to be as major. However, this does make sense since cooking is a money-saver!
+* In contrast, cooking was something I didn’t expect to be as major. However, this does make sense since cooking is a money-saver!
 
 This month has shifted from exploration and into practice. Perhaps I had my fill for exploration for the time being, as finding something new is sometimes discomforting to do, and I may not even enjoy it. (But hey, knowing what I don't like is just as important as what I do like.) I also wanted the gap year to be a time where I can really dig into a newly-discovered interest, or to refine other existing skills. Practice mode now required a lot of consistency and patience, as well as the ability to tolerate setbacks.
 
