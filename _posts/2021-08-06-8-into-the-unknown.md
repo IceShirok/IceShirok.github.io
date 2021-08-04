@@ -22,11 +22,11 @@ I've found exploring a new city to be simultaneously stimulating and unnerving. 
 ### What I’ve seen
 I've traveled to Indianapolis to visit a friend and to enjoy what the city had to offer! It was a pleasant time to travel out to the Midwest. Activities included exploring museums and parks, eating lots good food, visiting the breweries, kayaking on a peaceful lake, and riding a bike through the bike-friendly paths to burn the calories.
 
-<div style="text-align:center"><img src="/images/blog7/blog8-med_museum.jpg" width="350"><img src="/images/blog7/blog8-canal.jpg" width="350"></div>
+<div style="text-align:center"><img src="/images/blog8/blog8-med_museum.jpg" width="350"><img src="/images/blog8/blog8-canal.jpg" width="350"></div>
 
 *A chemistry set from the Indianapolis Medical History Museum (left). The Canal Walk along the White River in Downtown Indianapolis (right).*
 
-<div style="text-align:center"><img src="/images/blog7/blog8-firehouse.jpg" width="350"><img src="/images/blog7/blog8-cajun.jpg" width="350"></div>
+<div style="text-align:center"><img src="/images/blog8/blog8-firehouse.jpg" width="350"><img src="/images/blog8/blog8-cajun.jpg" width="350"></div>
 
 *The Indianapolis Fire Fighters Museum on Mass Ave, with an adorable firefighting pup (left). A chili cheese etouffee with crawfish from Yat's, learning quickly that my go-to is a curry-like substance over rice (right).*
 
