@@ -12,15 +12,15 @@ I went on a family trip to San Francisco! Since it's been almost 2 years since m
 
 Here are some highlights from my trip to San Francisco!
 
-<div style="text-align:center"><img src="/images/blog9/blog9-golden_gate.jpg" width="350"><img src="/images/blog9/blog9-muir_woods.jpg" width="350"></div>
+<div style="text-align:center"><img src="/images/blog9/blog9-golden_gate.jpg" width="350"><img src="/images/blog9/blog9-tea_shop.jpg" width="350"></div>
 
-<div style="text-align:center"><img src="/images/blog9/blog9-tea_shop.jpg" width="350"><img src="/images/blog9/blog9-flower_conservatory.jpg" width="350"></div>
+<div style="text-align:center"><img src="/images/blog9/blog9-muir_woods.jpg" width="350"><img src="/images/blog9/blog9-flower_conservatory.jpg" width="350"></div>
 
 *The Golden Gate Bridge with a model of the Bay's geological depths (top left).* A picture trying to combine my surprise at San Francisco's ["micro-climates"](https://apps.apple.com/us/app/mr-chilly/id933759132), the iconic figure of the city, and my nerddom for models.
 
-*Redwood trees in Muir Woods (top right).* Did you know that the [redwood trees condensates San Francisco's fog to into water, which falls to its roots for watering](https://baynature.org/article/fog-and-redwoods-demystifying-the-mist/)? That's environmental adaptation right there! Not to mention how breathtaking the giant woods are.
+*A collection of Chinese tea in a tea shop in Chinatown (top right).* I learned to appreciate the subtleties of different teas while listening to a knowledgeable and humorous tea shop owner. I bought some [ginseng oolong tea leaves, known for its "energizing" properties](https://vitaltealeaf.net/products/ginseng-oolong). (Since I'm just shaking off the jet lag.)
 
-*A collection of Chinese tea in a tea shop in Chinatown (bottom left).* I learned to appreciate the subtleties of different teas while listening to a knowledgeable and humorous tea shop owner. I bought some [ginseng oolong tea leaves, known for its "energizing" properties](https://vitaltealeaf.net/products/ginseng-oolong). (Since I'm just shaking off the jet lag.)
+*Redwood trees in Muir Woods (bottom left).* Did you know that the [redwood trees condensates San Francisco's fog to into water, which falls to its roots for watering](https://baynature.org/article/fog-and-redwoods-demystifying-the-mist/)? That's environmental adaptation right there! Not to mention how breathtaking the giant woods are.
 
 *There wasn't information around, but I'm guessing this is an [unofficial breed of dahlia flower](https://www.almanac.com/plant/dahlias) outside the Conservatory of Flowers (bottom right).* The Golden Gate Park was beautiful but way too massive for my family to explore, so we honed in to the Conservatory of Flowers and the Japanese Tea Garden.
 
