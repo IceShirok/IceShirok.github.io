@@ -33,6 +33,10 @@ With COVID-19 cases increasing again, I don't foresee planning longer trips like
 
 ### What I’ve learned
 
+*Bonus points*: a friend replied to my last post on the "fluid mechanics"/electrical analogy, and told me that there's also a mechanical-electrical analogy. This analogy can be readily applied to acoustics, translating electrical signals into mechanical waves (or sound)!
+
+So I went for a Google search, then went through [the Wikipedia article](https://en.wikipedia.org/wiki/Mechanical–electrical_analogies) and [a webpage from Swarthmore](https://lpsa.swarthmore.edu/Analogs/ElectricalMechanicalAnalogs.html). Since I've learned mechanics framed as throwing baseballs off a cliff and calculating its trajectory... while the math kinda makes sense, the analogy is harder to wrap my head around intuitively.
+
 
 ### What I’ve seen
 
