@@ -3,7 +3,7 @@ layout: post
 title: Refresh Button
 ---
 
-Hi folks, welcome to **War(un)lock blog #9**, where I've returned from a trip to San Francisco for the first time! I've since been able to "press" my personal Refresh Button, feeling more relaxed (although still sleepy from jet lag) and rolling back into my NYC routine (if one can have a routine in a gap year).
+Hi folks, welcome to **War(un)lock blog #9**, where I've returned from a trip to San Francisco for the first time! I've since been able to "press" my personal Refresh Button, feeling more relaxed (although still sleepy from jet lag) and falling back to my NYC routine (if one can have a routine during a gap year).
 
 
 ### What I’ve been up to
@@ -28,16 +28,16 @@ And for bonus points, I spent my resting time ~harassing~ attending to the cats 
 
 <div style="text-align:center"><img src="/images/blog9/blog9-cat_spotted.jpg" width="350"></div>
 
-With COVID-19 cases increasing again, I don't foresee planning longer trips like this for a while, especially with more holidays coming up. Also, it's nice to return to my own space in New York City, relax after a very busy vacation, and get back into a routine.
-
 
 ### What I’ve learned
 
 #### It's hot in here
 
-With August over halfway over, it felt appropriate to talk about **heat**. This is a topic that is hard to condense into a blog post section because:
-1) There is a lot of context around it - on both atomic and macroscale levels. There is a lot of topics like kinematics, probability, statistics, and the disorder of the universe, to name a few.
-2) We peeps intuitively know about "hot" and "cold". Touching a hot pan will feel hot. Your face hitting the cold winter air will feel cold. However, scientific definitions of heat and temperature conflict with everyday definitions.
+With August over halfway over, it felt appropriate to talk about **heat**.
+
+This is a topic that is hard to condense into a blog post section because:
+1) There is a lot of context around it - on both atomic and macroscale levels. There is a lot of topics like kinematics, probability, statistics, and the disorder of the universe, to name a few. It super cool to piece the stuff together, but it still hurts my head.
+2) We peeps intuitively know about "hot" and "cold". Touching a hot pan will feel hot. Your face hitting the cold winter air will feel cold. However, scientific definitions of heat and temperature conflict with everyday definitions. This hurts my head even more.
 
 Here are some heat-related questions:
 * Why does sweat cool you down on a hot summer day? And why do you feel especially miserable when it's humid outside?
@@ -49,38 +49,45 @@ Here are some heat-related questions:
 Say that you have a box of balls that bounce around inside [like an old-school screensaver](https://techcrunch.com/2021/05/14/googles-dvd-screensaver-easter-egg-makes-the-logo-bounce-around-your-screen-accordingly/). Some balls may move around quickly, while others may be motionless. Two balls may collide and subsequently ricochet.
 
 Now let's say you have two boxes:
-* One box contains balls that move around sluggishly.
-* The other box was really shaken up, and the balls are zooming through the box. Maybe one or two balls are still moving a bit slower than the others.
+* One box contains balls that all generally move at a sluggish speed.
+* The other box was really shaken up, so the balls are zooming through the box. Maybe one or two balls are still moving a bit slower than the others.
 
-Put the two boxes so they're touching each other, then remove the side separating the boxes. What would happen? What would happen after waiting a couple of minutes?
+Put the two boxes so they're touching each other, then remove the side separating the boxes. *What would happen? What would happen after waiting a couple of minutes?*
+
+<div style="text-align:center"><img src="/images/blog9/blog9-heat_analogy.jpg" width="500"></div>
 
 This is how heat works!
-* The moving balls are atoms, and the box is a "system". The system can be an object, an environment, or the universe.
-* The speed of the ball refers to the energy the ball has. The faster the ball, the more energy it has.
-* Temperature refers to the **average** energy within a system. The box with the zooming balls would have a higher temperature than the box with the sluggish balls.
-* Heat refers to the transfer of energy due to a difference of temperature between two systems. When the 2 boxes were fused into one, the zooming balls distributed throughout much faster. After a few minutes, all the balls in the box would start moving in more similar speeds, due to the balls colliding.
+* *The moving balls are atoms, and the box is a "system".* The system can be an object, an environment, or the universe.
+* *The speed of the ball refers to the energy the ball has.* The faster the ball, the more energy it has.
+* *Temperature refers to the **average** energy within a system.* The box with the zooming balls would have a higher temperature than the box with the sluggish balls.
+* *Heat refers to the transfer of energy due to a difference of temperature between two systems.* When the 2 boxes were fused into one, the zooming balls distributed throughout the two boxes much faster. After a few minutes, all the balls in the box would start moving in more similar speeds, due to the balls colliding and transferring momentum/energy.
 
 #### Heat transfer
 
-There are 3 types of heat transfer: conduction, convection, and radiation.
+There are 3 types of heat transfer: **conduction, convection, and radiation.**
 
-**Conduction** is heat transfer from two systems physically touching each other. The easiest example is heating a pan up on the stove. The stovetop has a higher temperature than the (room temperature) pan. Energy is transferred from the stovetop to the pan until the pan heats up.
+**Conduction** is heat transfer from two systems physically touching each other. The easiest example is heating a pan up on the stove. The stovetop has a higher temperature than the (room temperature) pan. Energy is transferred from the stovetop to the pan until the pan heats up. This is because the energy is transferred from the atoms of the stovetop to the atoms in the pan.
 
-**Convection** is heat transfer due to the flow of liquids or gases. Having heat flow allows heat to circulate and distribute faster. For example, your body generates and releases heat.
-* In stale air, you would start to feel stuffy because there's no air circulation to move the heat away from you. Your body would form its own heat bubble around you.
-* When there is air circulating, like from a fan, the air holding the heat moves away from you faster, and cooler air may move towards you.
+**Convection** is heat transfer due to the flow of fluids (liquids or gases). Having fluid flow allows heat to circulate and distribute faster throughout the system. For example, your body generates and releases heat, which is absorbed by the (assume room temperature) air.
+* In stale air, you would start to feel stuffy because there's no air circulation to move the heated air away from you. Your body would form its own heat bubble.
+* When there is circulating air, like from a fan, the heated air moves away from you faster, and cooler air moves towards you.
+* Of course, this may be different depending on whether you're standing in 100°F or 32°F temperatures!
 
 **Radiation** is heat transfer from absorbing or emitting electromagnetic radiation. Electromagnetic radiation come in the form of microwaves, light, ultraviolet rays, gamma rays, etc. It is the only main heat transfer type that can occur in a vacuum, since light is pure energy!
 
-#### Water is awesome, a love story
+<div style="text-align:center"><img src="/images/blog9/blog9-heat_transfer.jpg" width="500"></div>
+
+#### Water is awesome
 
 I could write an entire blog around water and how great it is. However, I'll talk about how *cool* water is around heat.
 
-When water evaporating/vaporizing/boiling from a liquid to a gas, the water molecules absorbs the energy to overcome "sticking" to each other as water. The water molecules then excitedly fly away on its own. Note that the water molecules are **absorbing energy**.
+When water is changing from a liquid to a gas, water molecules absorbs energy until it can break the bonds that would otherwise "stick" it to other water molecules. The water molecules then excitedly fly away on its own. Note that the water molecules are **absorbing energy**.
 
-When your body starts to sweat, water starts to bead on your skin. Since your body generates heat, your sweat absorbs both the heat from your body and the outside. Since the sweat is absorbing your body heat, heat is pulled away from your skin. Thus, your body will cool down as a result.
+When your body starts to sweat, water starts to bead on your skin. Since your body also emits heat, your sweat absorbs the heat from your body and the outside environment. Since the sweat is absorbing your body heat, heat is pulled away from your skin. Thus, your body will cool down as a result.
 
 However, in a humid day, the air already has gaseous water floating around. It becomes harder for your sweat to evaoprate into the air as a result, since the air is "saturated" with water. Without the sweat evaporating from your skin, your body can't cool down as effectively.
+
+And of course, remember to hydrate on a hot day!
 
 
 #### Bonus points
@@ -98,7 +105,7 @@ Instead, I'll talk about my latest food obsession - [Greek salad](https://youtu.
 
 Since I've been watching some videos on the Chinese language, YouTube decided that I was potentially interested in... learning Greek. I ended up spending a few hours getting sucked into Easy Greek and getting a crash course on the Greek language and culture (which should always include food!).
 
-I coincidentally needed a new recipe to eat more vegetables, and this Greek salad was perfect. (I do omit the olives, since I don't their taste.) When I inevitably get bored with Greek salad, I can always use the ingredients for other dishes.
+I coincidentally needed a new recipe to eat more vegetables, and this Greek salad was perfect. (I do omit the olives, since I don't like the taste.) When I inevitably get bored with Greek salad, I can always use the ingredients for other dishes.
 
 
 ### A chapter closed
