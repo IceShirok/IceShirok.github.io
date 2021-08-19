@@ -33,7 +33,59 @@ With COVID-19 cases increasing again, I don't foresee planning longer trips like
 
 ### What I’ve learned
 
-*Bonus points*: a friend replied to my last post on the "fluid mechanics"/electrical analogy, and told me that there's also a mechanical-electrical analogy. This analogy can be readily applied to acoustics, translating electrical signals into mechanical waves (or sound)!
+#### It's hot in here
+
+With August over halfway over, it felt appropriate to talk about **heat**. This is a topic that is hard to condense into a blog post section because:
+1) There is a lot of context around it - on both atomic and macroscale levels. There is a lot of topics like kinematics, probability, statistics, and the disorder of the universe, to name a few.
+2) We peeps intuitively know about "hot" and "cold". Touching a hot pan will feel hot. Your face hitting the cold winter air will feel cold. However, scientific definitions of heat and temperature conflict with everyday definitions.
+
+Here are some heat-related questions:
+* Why does sweat cool you down on a hot summer day? And why do you feel especially miserable when it's humid outside?
+* [Why does a fan cool you down](https://www.mentalfloss.com/article/57774/how-does-fan-work-cool-you) if it's blowing the air of the same temperature?
+* Why does the Sun heat up the Earth if the two planetary bodies are separated by a vacuum?
+
+#### Background: a box of balls
+
+Say that you have a box of balls that bounce around inside [like an old-school screensaver](https://techcrunch.com/2021/05/14/googles-dvd-screensaver-easter-egg-makes-the-logo-bounce-around-your-screen-accordingly/). Some balls may move around quickly, while others may be motionless. Two balls may collide and subsequently ricochet.
+
+Now let's say you have two boxes:
+* One box contains balls that move around sluggishly.
+* The other box was really shaken up, and the balls are zooming through the box. Maybe one or two balls are still moving a bit slower than the others.
+
+Put the two boxes so they're touching each other, then remove the side separating the boxes. What would happen? What would happen after waiting a couple of minutes?
+
+This is how heat works!
+* The moving balls are atoms, and the box is a "system". The system can be an object, an environment, or the universe.
+* The speed of the ball refers to the energy the ball has. The faster the ball, the more energy it has.
+* Temperature refers to the **average** energy within a system. The box with the zooming balls would have a higher temperature than the box with the sluggish balls.
+* Heat refers to the transfer of energy due to a difference of temperature between two systems. When the 2 boxes were fused into one, the zooming balls distributed throughout much faster. After a few minutes, all the balls in the box would start moving in more similar speeds, due to the balls colliding.
+
+#### Heat transfer
+
+There are 3 types of heat transfer: conduction, convection, and radiation.
+
+**Conduction** is heat transfer from two systems physically touching each other. The easiest example is heating a pan up on the stove. The stovetop has a higher temperature than the (room temperature) pan. Energy is transferred from the stovetop to the pan until the pan heats up.
+
+**Convection** is heat transfer due to the flow of liquids or gases. Having heat flow allows heat to circulate and distribute faster. For example, your body generates and releases heat.
+* In stale air, you would start to feel stuffy because there's no air circulation to move the heat away from you. Your body would form its own heat bubble around you.
+* When there is air circulating, like from a fan, the air holding the heat moves away from you faster, and cooler air may move towards you.
+
+**Radiation** is heat transfer from absorbing or emitting electromagnetic radiation. Electromagnetic radiation come in the form of microwaves, light, ultraviolet rays, gamma rays, etc. It is the only main heat transfer type that can occur in a vacuum, since light is pure energy!
+
+#### Water is awesome, a love story
+
+I could write an entire blog around water and how great it is. However, I'll talk about how *cool* water is around heat.
+
+When water evaporating/vaporizing/boiling from a liquid to a gas, the water molecules absorbs the energy to overcome "sticking" to each other as water. The water molecules then excitedly fly away on its own. Note that the water molecules are **absorbing energy**.
+
+When your body starts to sweat, water starts to bead on your skin. Since your body generates heat, your sweat absorbs both the heat from your body and the outside. Since the sweat is absorbing your body heat, heat is pulled away from your skin. Thus, your body will cool down as a result.
+
+However, in a humid day, the air already has gaseous water floating around. It becomes harder for your sweat to evaoprate into the air as a result, since the air is "saturated" with water. Without the sweat evaporating from your skin, your body can't cool down as effectively.
+
+
+#### Bonus points
+
+A friend replied to my last post on the "fluid mechanics"/electrical analogy, and told me that there's also a mechanical-electrical analogy. This analogy can be readily applied to acoustics, translating electrical signals into mechanical waves (or sound)!
 
 So I went for a Google search, then went through [the Wikipedia article](https://en.wikipedia.org/wiki/Mechanical–electrical_analogies) and [a webpage from Swarthmore](https://lpsa.swarthmore.edu/Analogs/ElectricalMechanicalAnalogs.html). Since I've learned mechanics framed as throwing baseballs off a cliff and calculating its trajectory... while the math kinda makes sense, the analogy is harder to wrap my head around intuitively.
 
