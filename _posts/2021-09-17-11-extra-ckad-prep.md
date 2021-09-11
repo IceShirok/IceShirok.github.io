@@ -9,7 +9,7 @@ Hi folks, welcome to War(un)lock - special blog edition! This is the first blog 
 
 This post will be dedicated on **preparing for the Certified Kubernetes Application Developer (CKAD) exam**. Since I will be renewing my certification this month, and folks have regularly asked me about the certification exam, I wanted to post my study plan and resources to prepare.
 
-<div style="text-align:center"><img src="/images/blog11/blog11-ckad.jpg"></div>
+<div style="text-align:center"><img src="/images/blog11/blog11-ckad.jpg" width="500"></div>
 
 Note that I won't go into Kubernetes concepts in this blog post. If you want to learn, you'll have to learn that yourself with this helpful guide. ;)
 
@@ -21,7 +21,7 @@ I have been interested in learning Kubernetes since I first learned about it in 
 
 At mid-2018, I booked a trip to Berlin to go to the [Velocity conference (now defunct)](https://www.oreilly.com/conferences/). I was interested in attending a workshop alongside the conference talks, and I saw that the conference offered a CKAD certification preparation course. It was run by awesome Kubernetes trainer Sébastien Goasguen, covered good CKAD tips and tricks, and the CKAD exam cost was covered. Thus, I was now set to learn everything Kubernetes!
 
-<div style="text-align:center"><img src="/images/blog11/blog11-kubernetes.png"></div>
+<div style="text-align:center"><img src="/images/blog11/blog11-kubernetes.png" width="500"></div>
 
 *All the nautical themes!*
 
