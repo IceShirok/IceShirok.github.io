@@ -13,6 +13,13 @@ Since I will be renewing my certification this month, and folks have regularly a
 
 Note that I won't go into Kubernetes concepts in this blog post. If you want to learn, you'll have to learn that yourself with this helpful guide. ;)
 
+*Update 24 Sept 2021:* Note that this guide was compiled before the [changes to the CKAD exam at the end of the month](https://training.linuxfoundation.org/ckad-program-change-2021/). While the study plan is agnostic to the exam content, some of the exam prep resources may be outdated. They are still applicable for a good 80% of the exam though. The following have been recently added to the CKAD:
+* *Discover and use resources that extend Kubernetes (CRD).* I learned this conceptually, but never had to implement this in the exam or in the industry.
+* *Use the Helm package manager to deploy existing packages.* If you've used Kubernetes in a job, you'll likely come across Helm. It is the equivalent of a YAML templating tool.
+* *Use Ingress rules to expose applications.* A type of network resource used to expose web applications with a provided DNS name, and slightly higher-level than Services.
+* *Understand API deprecations.* The CKAD disables the use of deprecated CLI and API functions. It looks like the exam will test on how to handle version deprecation scenarios.
+* Other topics were more explicitly stated or clarified. As long as you know how to deploy pods and deployments, you will be able to handle a majority of cases.
+
 ### Background
 
 Kubernetes is a container management platform software. It addresses the issue of how to manage containers and applications. How should they be deployed, maintained, scaled, accessed, etc.? Kubernetes provides a soltuion through a comprehensive and extensible platform, alongside a lot of nautical-themed jargon.
