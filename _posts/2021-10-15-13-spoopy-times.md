@@ -9,7 +9,7 @@ Hi folks, welcome to *War(un)lock blog #13*! It’s October - that means cooler 
 
 Since the publishing of this blog, it will be 3 weeks since Monty lived under my household. All room and board are paid for - including food, water, litter, toys, and bedding. That being said, Monty prefers some bedding more than others.
 
-<div style="text-align:center"><img src="/images/blog12/blog12-cat1.JPG" height="350"></div>
+<div style="text-align:center"><img src="/images/blog13/blog13-cat_bed.JPG" height="350"></div>
 
 I’ll be hanging around locally in NYC for at least a couple of weeks as I get to know more about Monty’s personality and how my schedule fits into cat ownership. Some things I’ve learned so far:
 * Monty has been my alarm clock for ~7 am much more reliably than my alarm clock. He’s learned how to respectfully tread next to me and meow for breakfast. He’s learned to at least wait until I wash up in the bathroom.
@@ -48,9 +48,9 @@ Fun fact: [Rechargeable batteries are rechargeable](https://electronics.howstuff
 
 MORE CAT PICS
 
-<div style="text-align:center"><img src="/images/blog12/blog12-cat1.JPG" height="350"></div>
+<div style="text-align:center"><img src="/images/blog13/blog13-cat_eggs.JPG" height="350"><img src="/images/blog13/blog13-cat_boss.jpg" height="350"></div>
 
-*(Left) Cute sleeping cat. (Right) Boss tells me to take a break from working/watching YouTube videos.*
+*(Left) Cute cat chilling with an egg carton. (Right) Boss tells me to take a break from working/watching YouTube videos.*
 
 ### A chapter closed
 
