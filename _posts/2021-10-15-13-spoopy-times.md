@@ -32,13 +32,29 @@ The most important things to note:
 
 The simplest circuit is - well - a simple circuit. It consists of a voltage source and a resistor. The voltage source produces the energy needed to generate a current. (Batteries generate electrical energy through an electrochemical reaction.) As a current passes through a resistor, an amount of energy is taken from the resistor and thus there is a “voltage drop”. Everything in the circuit should use up the energy before the circuit returns to the battery terminal.
 
+<div style="text-align:center"><img src="/images/blog13/blog13-simple_circuit.jpg" height="350"></div>
+
+<div style="text-align:center">*A diagram of a simple circuit, consisting of a voltage source and a resistor. The current is also flowing in the clockwise direction, since the battery is oriented such that the cathode (+) is pointing up.*</div>
+
+<div style="text-align:center"><img src="/images/blog13/blog13-voltage_drop.jpg" height="350"></div>
+
+<div style="text-align:center">*A diagram of a simple circuit with the voltage shown. Note that the voltage is higher before reaching the resistor, and lower after reaching the resistor. The battery generates the energy to create the higher voltage.*</div>
+
 [Recall that Ohm’s Law is I=V/R.](https://www.fluke.com/en-us/learn/blog/electrical/what-is-ohms-law) It is a mathematical formula that describes the relationship between current, voltage, and resistance.
 
 What happens in more complex circuits, like multiple resistors in a circuit? Well, [it depends how the resistors are arranged.](https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/10%3A_Direct-Current_Circuits/10.03%3A_Resistors_in_Series_and_Parallel)
 
 If the resistors are arranged in a series, then the current loses (via heat or some form of work) a bit of energy for every resistor it passes through. Since charges are preserved, the current’s value remains constant. Thus, resistors in series are equivalent to one powerful resistor.
 
+<div style="text-align:center"><img src="/images/blog13/blog13-series.jpg" height="350"></div>
+
+<div style="text-align:center">*A diagram of a circuit with resistors in series. As the current passes through each resistor, there is a voltage drop, but the current remains constant.*</div>
+
 If the resistors are arranged in parallel, things get interesting. Since the wires split to accommodate each resistor, like a river fork, the current splits into smaller values. The current value depends on the resistor strength; a resistor with little resistance will have a larger current flow through, while a resistor with higher resistor will have a smaller current. According to Ohm’s Law, this inverse relationship implies a constant voltage. This is because resistors in parallel [have equipotential](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/equipot.html). (This is harder to summarize in the blog post.) Because of maths, resistors in parallel are weaker in summation than any individual resistor in the group.
+
+<div style="text-align:center"><img src="/images/blog13/blog13-parallel.jpg" height="350"></div>
+
+<div style="text-align:center">*A diagram of a circuit with resistors in parallel. The current splits between each of the resistors, while the voltage is constant.*</div>
 
 Circuits can get complicated quickly, but the conservation of energy and charge help provide rules to trace how much current and voltage is used in any given circuit component. [This is known as Kirchhoff’s Law as part of circuit analysis.](https://www.electronics-tutorials.ws/dccircuits/dcp_4.html) (Because it also involves solving for multiple unknown variables, I won’t go through proving that this works mathematically.)
 
