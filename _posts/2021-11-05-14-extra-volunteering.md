@@ -3,24 +3,24 @@ layout: post
 title: Deep Lore - Hospital Volunteering
 ---
 
-Hi folks, welcome to **War(un)lock - Deep Lore Edition**! Since I’ve mentioned about my volunteering before, I’ll talk more about **my experience as a hospital volunteer so far.**
+Hi folks, welcome to **War(un)lock - Deep Lore Edition**! Since I’ve mentioned about my hospital volunteering before, I’ll talk more about **my experience as a hospital volunteer so far.**
 
-Why? The past couple of weeks have been a slew of logistics, phone calls, and text messages on my side as I prepare for the Thanksgiving holiday. I didn’t have enough material to write a normal blog post that:
+*Why?* The past couple of weeks have been a slew of logistics, phone calls, and text messages on my side as I prepare for the Thanksgiving holiday. I didn’t have enough material to write a normal blog post that:
 1. Was interesting for the reader
-2. Was interesting for me to write, because honestly there are a thousand generic time management articles
-3. Didn’t just involve a million pictures of Monty
+2. Was interesting for me to write, because honestly there are a thousand generic time management articles in the Internet
+3. Didn’t just involve a million pictures of Monty, even though I'd be happy to do that too
 
 ### Background
 
-I started volunteering in the hospital in mid-March of 2021. At that time, the pandemic was tapering down after a rough surge during the winter months. I wanted to learn more about what exactly went on in a hospital. We hear about the ED and ICU departments within hospitals across the US being overwhelmed. I was assigned to a med-surg floor, where patients reside before and after an operation, as a good way to help out both patients and staff.
+I started volunteering in the hospital in mid-March of 2021. At that time, the pandemic was tapering down after a rough surge during the winter months. I wanted to learn more about what exactly went on in a hospital. We hear about the ED and ICU departments within hospitals across the US being overwhelmed. I did a few one-time volunteering shifts at other organizations, but I sought for something more consistent and more aligned with my interests. Also, yes, I can be a little sadochistic with what exactly "aligned with my interests" if I chose a hospital. After chatting with the volunteer coordinator, I was assigned to a med-surg floor as a good way to help out both patients and staff.
 
-My first shift was honestly a bit overwhelming to take in. Without getting too personal, I haven’t set foot in a hospital in around 15 years. I was nervous and utterly inexperienced with what was going on around me. (Like, what the heck is “pulse-ox”? Where are the gloves? Who do I talk to for XYZ?) And to top it off, half of the patient rooms on my assigned floor were COVID-19 isolation rooms. (Welp.)
+My first shift was honestly a bit overwhelming to take in. Without getting too personal, I haven’t set foot in a hospital in around 15 years. I was nervous and utterly inexperienced with what was going on around me. (Like, what the heck is “pulse-ox”? Where are the gloves? Who do I talk to for XYZ?) And to top it off, half of the patient rooms on my assigned floor were COVID-19 isolation rooms. Welp. (I wasn't allowed to go near the rooms, but it was still a jumpscare for me.)
 
 Fortunately, the volunteer coordinator reassured me that it would take a few shifts to acclimate to the hospital environment. I also had to readjust my thinking that:
-I was in the same position in my first tech job, where I knew none of the acronyms or unspoken processes worked. It took time to passively absorb the information and actively do my tasks.
-I was there to help patients in any way I could.
+* I was in the same position in my first tech job, where I knew none of the acronyms or unspoken processes worked. It took time to passively absorb the information and actively do my tasks.
+* I was there to help patients in any way I could, with also ensured I wasn't doing something I shouldn't be doing, like medical procedures.
 
-And it did take a few shifts to start helping out, and a couple more shifts to get into a good rhythm. I do rounds with patients, which means going around and asking if patients need anything (water, extra blankets, speaking with a healthcare professional). With help from a nurse aide, I helped with restocking the phlebotomy carts, which the nurses and nurse aides use to draw blood. I also restocked isolation carts for rooms with particularly infectious diseases (that I don’t enter, BTW). I ferry blood samples down to the laboratory so the samples are tested before they clot. There are many more small tasks that I help out but can’t list them all.
+It did take a few shifts to get adjusted, and a couple more shifts to feel confident with my abilities and knowledge. I round with patients, which means going around and asking if patients need anything (water, extra blankets, speaking with a healthcare professional). With help from a few nurse aides, I helped with restocking the phlebotomy carts, which the nurses and nurse aides use to draw blood. I also restocked isolation carts for rooms with particularly infectious diseases. I ferry blood samples down to the laboratory so the samples are tested before they clot. There are many more small tasks that I help out but can’t list them all.
 
 I’ve also done a lot of passive observations. I learned how the nurses and nurse aides worked on the floor. The unit clerk keeps the unit working on the administrative side. I see medical teams chatting with patients and each other. I watched people from the kitchen serve meals, transporters ferrying patients for procedures, environmental services keeping the floor clean, security guards occasionally patrolling, physical therapists helping patients walk, patient services getting feedback from patients… Many people make the unit buzz!
 
