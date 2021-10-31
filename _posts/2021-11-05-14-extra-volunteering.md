@@ -22,9 +22,9 @@ Fortunately, the volunteer coordinator reassured me that it would take a few shi
 
 It did take a few shifts to get adjusted, and a couple more shifts to feel confident with my abilities and knowledge. I round with patients, which means going around and asking if patients need anything (water, extra blankets, speaking with a healthcare professional). With help from a few nurse aides, I helped with restocking the [phlebotomy](https://www.webmd.com/a-to-z-guides/what-is-phlebotomy) carts, which the nurses and nurse aides use to draw blood. I also restocked [isolation carts for rooms with particularly infectious diseases](https://medlineplus.gov/ency/patientinstructions/000446.htm). I ferry blood samples down [to the laboratory](https://laboratorycareer.com/laboratory/) so the samples are tested before they clot. There are many more small tasks that I help out but can’t list them all.
 
-I’ve also done a lot of passive observations. I learned how the nurses and nurse aides worked on the floor. The unit clerk keeps the unit working on the administrative side. I see medical teams chatting with patients and each other. I watched people from the kitchen serve meals, transporters ferrying patients for procedures, environmental services keeping the floor clean, security guards occasionally patrolling, physical therapists helping patients walk, patient services getting feedback from patients… Many people make the unit buzz!
+I’ve also done a lot of passive observations. I learned how the nurses and nurse aides worked on the floor. The [unit clerk](https://www.indeed.com/career-advice/resumes-cover-letters/unit-clerk-duties) keeps the unit working on the administrative side. I see medical teams chatting with patients and each other. I watched people from the kitchen serve meals, transporters ferrying patients for procedures, environmental services keeping the floor clean, security guards occasionally patrolling, [physical therapists](https://www.apta.org/your-career/careers-in-physical-therapy/becoming-a-pt) helping patients walk... Many people make the unit buzz!
 
-Not to mention all of the beeping around the place. The call bell occasionally rings within the entire unit, waiting to be answered. The telemetry dashboard beeps whenever a threshold is met. IVs that need refilling start beeping obnoxiously.
+Not to mention all of the beeping around the place. The [call bell](https://www.hqinstitute.org/post/no-pass-zone-patient-safety) occasionally rings within the entire unit, waiting to be answered. The [telemetry dashboard](https://nationaltelemetryassociation.org/the-importance-of-a-telemetry-unit-in-hospitals/) beeps whenever a threshold is met. IVs that need refilling start beeping obnoxiously.
 
 And yes, I’m throwing out a ton of words that took me months to get straight.
 
@@ -34,7 +34,7 @@ In all these months of volunteering, I’ve learned a lot from the experience. O
 
 *There is a LOT of communication.* Within the floor, there are tasks that can impact a patient’s well-being or health. When a task needs to be done, one would do the task and promptly follow up. Time is a precious treasure on the floor, and it would be detrimental to miss a task or to need to repeat one because a person didn’t follow up.
 
-Similarly, if a patient asks for something, I would need to come back with the request completed, or to explain to them why I can’t fulfill the request (nurse is busy, nurse doesn’t allow it, waiting for something else).
+Similarly, if a patient asks for something, I would need to come back with the request completed, or to explain to them why I can’t fulfill the request (nurse is busy, nurse doesn’t allow it, I'm waiting for another person to follow-up).
 
 Another thing that I didn’t think I’d do was communicate to patients and their family in Chinese. For those who didn’t speak English well enough, I often became an intermediate between them and the nursing staff. I’m not allowed to be an interpreter for medical or logistical information, but I could help relay concerns or fulfill requests more quickly.
 
@@ -46,9 +46,9 @@ However, there are times where I’m on my feet for the majority of my shift bec
 
 *I have SO much appreciation for the nurses and staff.* Whether through observation or chatting with the staff, I have a great appreciation for what they do as a full-time job. I only spent 4 to 6 hours per shift, while nurses stayed for a full 12 hours taking care of multiple patients.
 
-*Yes, there is a nurse shortage.* The nurses are stressed out with COVID-19 on top of more patients to manage, churn, unfair compensation, and toxic environments. I think we all acknowledge that all industries are suffering the churn rate and lack of experienced workers, but it doesn’t make our lives easier. Heck, I’ve helped some new nurses in the past few weeks since it would free up some time for the more seasoned nurses.
+[*Yes, there is a nurse shortage.*](https://www.aamc.org/news-insights/hospitals-innovate-amid-dire-nursing-shortages) The nurses are stressed out with COVID-19 on top of more patients to manage, churn, unfair compensation, and toxic environments. For example, [some nurses turn to travel nursing](https://nurse.org/articles/how-to-make-the-most-money-as-a-travel-nurse/) because of the better compensation. I think we all acknowledge that all industries are suffering the churn rate and lack of experienced workers, but it doesn’t make our lives easier. Heck, I’ve helped some new nurses in the past few weeks since it would free up some time for the more seasoned nurses.
 
-*There’s HIPAA, so no specific stories from me.* I’ve heard and seen many events on the floor that I don’t think I’m allowed to talk about on the Internet. There was gross stuff. There were laughs and tears. I’ve enjoyed eating lunch with staff who had the time for a break. I left shifts feeling great, while other times I felt terrible.
+*[There’s HIPAA](https://www.cdc.gov/phlp/publications/topic/hipaa.html), so no specific stories from me.* I’ve heard and seen many events on the floor that I don’t think I’m allowed to talk about on the Internet. There was gross stuff. There were laughs and tears. I’ve enjoyed eating lunch with staff who had the time for a break. I left shifts feeling great, while other times I felt terrible.
 
 ### A chapter closed
 
