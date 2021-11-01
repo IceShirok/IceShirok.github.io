@@ -8,7 +8,11 @@ Hi folks, welcome to **War(un)lock - Deep Lore Edition**! Since I’ve mentioned
 *Why?* The past couple of weeks have been a slew of logistics, phone calls, and text messages on my side as I prepare for the Thanksgiving holiday. I didn’t have enough material to write a normal blog post that:
 1. was interesting for the reader.
 2. was interesting for me to write, because honestly there are a thousand generic time management articles in the Internet.
-3. didn’t just involve a million pictures of Monty, even though I'd be happy to do that too.
+3. didn’t just involve a million pictures of Monty, even though I'd be happy to do that too. Oh wait...
+
+<div align="center"><img src="/images/blog14/blog14-disappointed.jpeg" width=350 /></div>
+
+*<div align="center">Monty is disappointed whenever I leave for my volunteering shift.</div>*
 
 ### Background
 
