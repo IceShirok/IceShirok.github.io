@@ -12,6 +12,10 @@ Some bad news though - I will reduce my blog posts to a monthly schedule. I’ll
 * Maintaining the blog is low priority in comparison to what I have cooking for the new year.
 * It’s my blog and I do what I want.
 
+<div align="center">
+<img src="/images/blog15/blog15-ido.jpg" width="350" />
+</div>
+
 ### What I’ve been up to
 
 I’ve spent two weeks in Atlanta visiting friends and family for the Thanksgiving holidays. It’s been a nice change of pace from my NYC routine especially among the outbreaks of COVID-19 variants.
@@ -78,12 +82,21 @@ But the sciences weren’t the only things I’ve learned. Earlier, I’ve taken
 
 I originally recorded the amount of study time in a notebook so I could better pace my study time. It wasn’t until a few months ago that I entered the data into Google Sheets. I wanted to see if any cool patterns emerged.
 
+<div align="center">
+<img src="/images/blog15/blog15-study_daily.png" width="500" />
+</div>
 
 This chart came out really cool. You could see the color change as courses started or were completed. You can also see some gaps where I didn’t study for the day because of vacations. However, it was hard to glean any other patterns.
 
+<div align="center">
+<img src="/images/blog15/blog15-study_weekly.png" width="500" />
+</div>
 
 I aggregated the study time by week, and it was neat to see how much time I dedicated to studying over the weeks. I could go even further, and combine the weekly aggregation with the course breakdown.
 
+<div align="center">
+<img src="/images/blog15/blog15-study_weekly_better.png" width="500" />
+</div>
 
 Tada! A cleaner bar chart. I aggregated the courses by categories, so there were less colors in the chart.
 
@@ -100,13 +113,15 @@ How did I plan my budget for the gap year? I categorized my spendings on 3 broad
 
 I already kept track of my finances through Google Sheets, so I already had a sense of how much I was currently spending. I then grouped the line item categories into one of 3 buckets, then estimated the allowance from there. The categories helped me better estimate my spending by allocating an “allowance” on the broad categories, rather than on specific categories. i.e. Groceries are necessary, but the cost can vary via inflation or specific meal plans.
 
-
+<div align="center">
+<img src="/images/blog15/blog15-counting_simple.png" width="350" />
+</div>
 
 From this pie chart, the Essential category was a little over 50%. (Hint: most of that spending was from rent.) Then Budgeted, then Fun. What exactly did I spend to get these percentages?
 
-
-
-
+<div align="center">
+<img src="/images/blog15/blog15-counting_pie.png" width="500" />
+</div>
 
 1) Not surprisingly, rent was a huge contributor to my spending.
 2) The next biggest spend was in education, which was also not surprising. I found that spending a bit of money helps me retain the information, but yikes the price tag was high.
@@ -114,21 +129,33 @@ From this pie chart, the Essential category was a little over 50%. (Hint: most o
 
 All other categories were chump change in comparison to the three largest contributors. There were some line items I’ve made redundant, or perhaps should’ve broken down further.
 
+<div align="center">
+<img src="/images/blog15/blog15-counting_monthly.png" width="500" />
+</div>
 
 Lastly, for fun, I wanted to see my monthly spending patterns over time. As expected, Essential spending was fairly constant, while Budgeted spending was the most variable. I did always give myself some spending on Fun, though I might’ve cheated and shifted those line items into the Budgeted category.
 
 ### What I’ve seen
 
+<div align="center">
+  
+<img src="/images/blog15/blog15-transit.jpg" width="350" />
+
 *NY Transit Museum. Yes, there were real subway cars from the early 20th century!*
 
+<img src="/images/blog15/blog15-waffle.jpg" width="350" />
 
 *Brunch in Atlanta featuring a delicious waffle.*
 
+<img src="/images/blog15/blog15-doge.jpg" width="350" />
 
 *Chilling out with the family dog. I sometimes almost call her “Monty” by accident.*
 
+<img src="/images/blog15/blog15-ido.jpg" width="350" />
 
 *A real sleepy boy.*
+  
+</div>
 
 ### A chapter closed
 
