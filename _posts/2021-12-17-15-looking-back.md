@@ -3,7 +3,7 @@ layout: post
 title: Looking Back
 ---
 
-Hi folks, welcome to **War(un)lock blog #15**! This is gonna be a longer blog post, as I’m coming back from a month-long pause, and this will be the last blog post of 2021! Yes, it’s the end of 2021, and 8 months into a gap year has felt like no time at all. This blog post will be a little longer, featuring a summary of what I’ve done in my 8 months into the gap year, as well as some cool charts and data insights because I love data.
+Hi folks, welcome to **War(un)lock blog #15**! This is gonna be a longer blog post, as I’m coming back from a month-long pause, and this will be the last blog post of 2021! Yes, it’s the end of 2021, and 8 months into a gap year has felt like no time at all. This blog post will feature a summary of what I’ve done in my 8 months into the gap year, as well as some cool charts and data insights because I love data.
 
 Some bad news though - I will reduce my blog posts to a monthly schedule. I’ll continue to post in the middle of the month up until the end of the gap year. Why?
 
