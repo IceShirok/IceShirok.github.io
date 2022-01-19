@@ -35,7 +35,52 @@ Of course, getting a job will be one of those goals. :-)
 
 ### What I’ve learned
 
-TBD
+You guys know I really enjoy (mostly eating, but also cooking) food. In this new three-part series, I want to share about why we humans eat different kinds of food.
+
+If you've been curious about any of these questions, then continue reading!
+1. How much carbohydrates, fats, and protein should I eat daily?
+2. Why are vitamins, minerals, water, and fiber important in my diet?
+3. What exactly is metabolism?
+4. What happens to the food and drink that I consume?
+5. Why can I eat grapes and chocolate but my cat will die from eating them?
+
+*Note:* This is [more general knowledge](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/) without context about your specific dietary needs or medical history. Obviously I'm not a dietitian or nutritionist. BUT I hope it gives you some insight about why we food.
+
+#### Why do we food?
+
+Obviously, we eat and drink to live! For some, food is just a means of survival, while other regard it very highly for quality and deliciousness (AKA the foodies). Most of us have a [comfort food](https://en.wikipedia.org/wiki/Comfort_food) that reminds us about a fond memory or a cultural heritage. Some have diets that revolve around their medical condition, and some may just eat whatever their heart desires.
+
+All in all, we consume so that our bodies [have the energy to do work via calories](https://www.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial/a/what-is-work). Then you get the terms "calories", "nutrition", "carbs", "fats", "sodium"... and now food has become complicated. But fear not - let's break down what exactly is in your food!
+
+#### Carbohydrates
+
+Carbohydrates is the general term for starches and sugars. It's named this because all carbs have a chemical formula C<sub>X</sub> H<sub>2X</sub>O<sub>X</sub> (literally "carbon" + "hydrate"). Sugars are 1 or 2-unit molecules, while starches are like linked chains of sugar. Carbs are used as your primary fuel source for the body, and should make up around half of your diet. Later in the series, you'll learn why starches are generally better for fuel than sugar, and why diabetics consume sugar during a diabetic emergency.
+
+#### Fats
+
+The technical term is lipids, which includes fats (solid) and oils (liquid). It similar in composition to a carbohydrate, but it doesn't have that nice chemical ratio, and there are far few O's in the formula. They're consumed because they act like long-term fuel storage. For example, any excess carbs in the diet is coverted into glycerol and stored in the liver and muscles, or into fat tissues. They're also inportant for building cells in your body. If the body has low blood sugar, it's capable of breaking down fats into fuel. (Fun fact - if you're chemistry-savvy, you'll notice that [fats look chemically similar to fossil fuels](http://www.brooklyn.cuny.edu/bc/ahp/SDPS/SD.PS.LipPol.html)!)
+
+Some fat in the diet is helpful - both for building and for taste. Generally thoguh, it's better to stick to unsaturated fats over saturated fats. Cholesterol is naturally produced in the body, so it's better to minimize consumption of it. [Avoid trans fat at all costs.](https://medlineplus.gov/ency/patientinstructions/000786.htm)
+
+#### Proteins
+
+If carbs are the fuel for the body, fats are the fuel storage, proteins are the machines of the body. They're primarily responsible for actually breaking down food and building stuff in the body, which will be covered in detail later in the series. Protein can be consumed from both animals and plants (especially lentils and beans). Note that [you may be not need to have a lot of protein in your diet](https://www.google.com/search?client=firefox-b-1-d&q=how+much+protein+in+diet) unless you're actively building muscle. In fact, excess protein makes you pee more, making you dehydrated!
+
+#### Vitamins and Minerals
+
+Vitamins and minerals are the "micro molecules" of your diet. You don't need much of them to live a healthy life, and in fact [some can be toxic at high doses](https://www.healthline.com/nutrition/can-you-overdose-on-vitamins#risks-of-high-doses). There are 13 different known vitamins and several different minerals that humans need. They're both consumed because they help with certain processes in your body, as opposed to directly affecting your body (i.e. carbs and fats as fuel, proteins as machines). Potassium and iron are two minerals lacking in many diets, while salt (sodium chloride) is one of the few minerals in American diets that [should be reduced due to hypertension risk](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456). The only difference between vitamins and minerals - [one is organic, and one is inorganic](https://www.sciencenewsforstudents.org/article/explainer-chemistry-organic-carbon).
+
+#### Fiber
+
+[Fiber is a carbohydrate that we humans cannot digest.](https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/) (i.e. Why can't we eat grass like a cow can?) While our bodies can't convert fiber into fuel, [it is consumed to promote digestive health, regulate blood sugar, and encourage regularity](https://www.healthline.com/health/soluble-vs-insoluble-fiber#benefits). Eat your vegetables!
+
+#### Water
+
+[Being hydrated is super important!](https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html) Unlike food, a human cannot survive without drinking water for a few days. It's used to make sweat in order to cool down your body. It makes up your blood and urine to keep things flowing through your body like a plumbing system and prevent disasters like kidney stones. Later in the series, you'll learn that water immensely helps with how cells work and metabolism. Just note that certain beverages, like alcohol, have counteractive effects and make you more dehydrated ([here's a link about alcohol from the Institute of Human Anatomy](https://www.youtube.com/watch?v=6q1RH8A3O3c) - warning, there are cadavers in this video).
+
+#### Conclusion
+
+There's a lot of different kinds of foods and drinks out there! But with all the choices out there, they make up the fuel we need in our diets to stay healthy and alive. What you eat is what your body has to work with to maintain itself, but it doesn't necessarily mean eating a bland boring diet lacking *any* of the supposed bad foods such as fats and salt (medical condition notwithstanding). (*[He who controls Spice, controls the universe!](https://nerdist.com/article/dune-spice-melange-explained/)*).
 
 ### A chapter closed
 
