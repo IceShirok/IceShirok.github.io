@@ -5,6 +5,8 @@ title: Peppermint Mocha
 
 Hi folks, welcome to **War(un)lock blog #16**! Welcome to the new year of 2022, where I’ve been… staying at home, social distancing and keeping warm. But I’ve made excuses to endure the chilly New York winter for some treats, such as doughnuts or a peppermint mocha, and then come home to a cozy cat.
 
+<div style="text-align:center"><img src="/images/blog16/blog16-snow.jpeg" height="350"></div>
+
 <div style="text-align:center"><img src="/images/blog16/blog16-cozy.jpeg" height="350"></div>
 
 ### What I’ve been up to
