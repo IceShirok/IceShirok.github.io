@@ -3,20 +3,30 @@ layout: post
 title: Eye of the Tiger
 ---
 
-Hi folks, welcome to **War(un)lock blog #17**!
+Hi folks, welcome to **War(un)lock blog #17**! The past few weeks have been a busy time for me. Nothing like some delicious food and some video games to break up the monotomy! (Also my wit levels are low at the time of writing...)
+
+<div style="text-align:center"><img src="/images/blog17/blog17-winter_storm.jpg" height="350"></div>
 
 ### What I’ve been up to
-It’s Chinese New Year! The Year of the Tiger is here. The winter storm at the end of January had given me ample time to make some homemade dumplings. I made a traditional ground pork and cabbage dumpling, as well as a vegetarian mushroom and fennel variety. My extended family from across the globe also got together virtually via WeChat to wish a safe and happy new year. I’ve also received some funky art for my Steam account.
+**It’s Chinese New Year!** The Year of the Tiger is here. The winter storm at the end of January had given me ample time to make some homemade dumplings. I made a traditional ground pork and cabbage dumpling, as well as a vegetarian mushroom and fennel variety. My extended family from across the globe also got together virtually via WeChat to wish a safe and happy new year. As a bonus, I’ve received some funky tiger art for my Steam account.
 
-I’ve also been wrapping up a Microbiology course that I’ve been taking since November. I’ve spent an inordinate time studying for the final. I’ve been transcribing my study notes into Google Docs so I can go over the details again and get the list of major topics to synthesize ideas around. Unfortunately, I’ve gotten over 120 pages of notes to review for my final exam this week. Wish me luck.
+<div style="text-align:center"><img src="/images/blog17/blog17-tiger_steam.jpg" height="350"></div>
 
-To keep myself sane in between study sessions, I’ve finished quite a few items from my “Things to Play/Watch” list - Fringe on HBO Max, Pathfinder: Kingmaker, and Pokemon Legends. It didn’t help that I did get a small hit of the post-show blues to demotivate me from studying anyways.
+I’ve also been wrapping up [a Microbiology course](https://www.mheducation.com/highered/product/nester-s-microbiology-human-perspective-anderson-salm/M9781260735505.html) that I’ve been taking since November. I've learned a lot about how microbes work like tiny machines, and how they affect our human lives in both a positive and negative way. I’ve also spent an inordinate time studying for the final. I’ve been transcribing my study notes into Google Docs so I can get a refresher on the details and get the list of major topics to synthesize ideas around. Unfortunately, I’ve got over 120 pages of notes to review for my final exam this week. Wish me luck.
 
-Of course, it’s been a lot of cooking and takeout - whether it be eating out with friends, cooking in the midst of a winter storm, or just munching on a bodega sandwich. I don’t remember who exactly said that the best way to improve your cooking is to eat out at restaurants, but it’s definitely been true. (And I definitely don’t say that to excuse myself from more takeout.)
+To keep myself sane in between study sessions, I’ve finished quite a few items from my "Things to Play/Watch" list - [Fringe on HBO Max](https://play.hbomax.com/series/urn:hbo:series:GYGhpSwCFYsISvQEAAAAH), [Pathfinder: Kingmaker](https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/), and [Pokemon Legends: Arceus](https://legends.pokemon.com/en-us/). It didn’t help that I did get a small hit of the post-show blues to demotivate me from studying anyways.
+
+Of course, it’s been a lot of cooking and takeout - whether it be eating out with friends, cooking in the midst of a winter storm, or just munching on a bodega sandwich. I don’t remember who exactly said that the best way to improve your cooking is to eat out at restaurants, but it’s definitely been true. (And I definitely don’t say that to excuse myself from more takeout.) For example, omurice (Japanese omelette over rice) has been the latest inspiration!
+
+<div style="text-align:center"><img src="/images/blog17/blog17-omurice.jpg" height="350"></div>
 
 ### What I’ve learned
 
-In the last blog post, I’ve written the first part of a three-part series on why we eat food - for fuel! Well, that makes sense, but what actually happens to the food that we eat that provides energy? In short, the answer is metabolism.
+In the last blog post, I’ve written the first part of a three-part series on why we eat food - for fuel! For example, dumplings (see below) is made up of carbohydrates (flour wrappers), protein (ground pork), fats (oil), fiber (cabbage), vitamins, and minerals. Not to mention other herbs and spices that provide a variety of flavors and healthly goodness.
+
+<div style="text-align:center"><img src="/images/blog17/blog17-dumplings.jpg" height="350"></div>
+
+Well, that makes sense, but what actually happens to the food that we eat that provides energy? In short, the answer is metabolism.
 
 Note that this topic can get super dense super quickly. I had at least three separate courses talk about metabolism in slightly different angles. It also took that long before I really appreciated the complexity of the process!
 What is metabolism?
@@ -47,11 +57,16 @@ Different ways to get energy
 How many ways have humans produced energy? Many - fossil fuels, burning wood, nuclear energy, or pedaling an electric bike.
 
 Similarly, many organisms on the Earth produce their own energy in different ways than humans. Namely, bacteria! The yeast used to produce beer and bread use a process called fermentation alongside glycolysis. Some bacteria, such as the ones that cause botulism, cannot survive with oxygen - and is a major issue in canned foods. Bacteria swimming on the surface of oceans can survive in salty waters and collect energy from the sun. Bacteria can also live in hydrothermal vents deep in the sea, using sulfur and other inorganic chemicals as a way to respire.
-What I’ve seen
 
-Monty sunbathing at the only south-facing window in my apartment. Also next to my desk and the food bowl. I like to live dangerously.
+### What I’ve seen
 
-I’m cheating. This was me visiting Sweet Hut in 2020, before COVID-19 became a pandemic.
+<div style="text-align:center"><img src="/images/blog17/blog17-sunbathing.jpg" height="350"></div>
+
+*Monty sunbathing at the only south-facing window in my apartment. Also next to my desk and the food bowl. I like to live dangerously.*
+
+<div style="text-align:center"><img src="/images/blog17/blog17-cheeseboat.jpg" height="350"></div>
+
+*My friends and I visited a Georgian restuarant in Williamsburg called Cheeseboat. I might be in heaven right now.*
 
 ### A chapter closed
 
