@@ -38,6 +38,8 @@ My chemistry professor described the basis of chemistry as relationships between
 
 Now what about the health association with weight loss? Well, that’s an answer that even healthcare professionals don’t have a definite answer on. Did you know that 60-70% of the calories that you should be eating [contributes to keeping your body working](https://www.active.com/fitness/calculators/bmr)? [Only 15% of calories contribute to physical activity.](https://pubmed.ncbi.nlm.nih.gov/14692598/) Also, [for every decade of your life, your metabolism slows by 1-2%](https://www.healthline.com/nutrition/metabolism-and-age#TOC_TITLE_HDR_4) - so make sure to adjust your diet accordingly!
 
+<div style="text-align:center"><img src="/images/blog17/blog17-metabolism.jpg" height="350"></div>
+
 #### What is respiration?
 
 Again, depends on who you ask.
