@@ -8,7 +8,7 @@ Hi folks, welcome to **War(un)lock blog #17**! The past few weeks have been a bu
 <div style="text-align:center"><img src="/images/blog17/blog17-winter_storm.jpg" height="350"></div>
 
 ### What I’ve been up to
-**It’s Chinese New Year!** The Year of the Tiger is here. The winter storm at the end of January had given me ample time to make some homemade dumplings. I made a traditional ground pork and cabbage dumpling, as well as a vegetarian mushroom and fennel variety. My extended family from across the globe also got together virtually via WeChat to wish a safe and happy new year. As a bonus, I’ve received some funky tiger art for my Steam account.
+**It’s Chinese New Year!** The Year of the Tiger is here. The winter storm at the end of January had given me ample time to make some homemade dumplings. I made a [traditional ground pork and cabbage dumpling](https://www.xiachufang.com/recipe/106089403/), as well as a vegetarian mushroom and fennel variety. My extended family from across the globe also got together virtually via WeChat to wish a safe and happy new year. As a bonus, I’ve received some funky tiger art for my Steam account.
 
 <div style="text-align:center"><img src="/images/blog17/blog17-tiger_steam.jpg" height="350"></div>
 
@@ -16,17 +16,17 @@ I’ve also been wrapping up [a Microbiology course](https://www.mheducation.com
 
 To keep myself sane in between study sessions, I’ve finished quite a few items from my "Things to Play/Watch" list - [Fringe on HBO Max](https://play.hbomax.com/series/urn:hbo:series:GYGhpSwCFYsISvQEAAAAH), [Pathfinder: Kingmaker](https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/), and [Pokemon Legends: Arceus](https://legends.pokemon.com/en-us/). It didn’t help that I did get a small hit of the post-show blues to demotivate me from studying anyways.
 
-Of course, it’s been a lot of cooking and takeout - whether it be eating out with friends, cooking in the midst of a winter storm, or just munching on a bodega sandwich. I don’t remember who exactly said that the best way to improve your cooking is to eat out at restaurants, but it’s definitely been true. (And I definitely don’t say that to excuse myself from more takeout.) For example, omurice (Japanese omelette over rice) has been the latest inspiration!
+Of course, it’s been a lot of cooking and takeout - whether it be eating out with friends, cooking in the midst of a winter storm, or just munching on a bodega sandwich. I don’t remember who exactly said that the best way to improve your cooking is to eat out at restaurants, but it’s definitely been true. (And I definitely don’t say that to excuse myself from more takeout.) For example, [omurice (Japanese omelette over rice)](https://www.justonecookbook.com/omurice-japanese-omelette-rice/) has been my latest inspiration!
 
 <div style="text-align:center"><img src="/images/blog17/blog17-omurice.jpg" height="350"></div>
 
 ### What I’ve learned
 
-In the last blog post, I’ve written the first part of a three-part series on why we eat food - for fuel! For example, dumplings (see below) is made up of carbohydrates (flour wrappers), protein (ground pork), fats (oil), fiber (cabbage), vitamins, and minerals. Not to mention other herbs and spices that provide a variety of flavors and healthly goodness.
+In the [last blog post](https://www.warunlock.com/16-peppermint-mocha/), I’ve written the first part of a three-part series on why we eat food - for fuel! For example, dumplings (see below) is made up of carbohydrates (flour wrappers), protein (ground pork), fats (oil), fiber (cabbage), vitamins, and minerals. Not to mention other herbs and spices that provide a variety of flavors and healthly goodness. *(Note that I'm being reductive.)*
 
 <div style="text-align:center"><img src="/images/blog17/blog17-dumplings.jpg" height="350"></div>
 
-Wat actually happens to the food that we eat that provides energy? In short, the answer is metabolism.
+Wat actually happens to the food that we eat that provides energy? In short, the answer is **metabolism**.
 
 Note that this topic can get super dense super quickly. I had at least three separate courses talk about metabolism in slightly different angles. It also took that long before I really appreciated the complexity of the process!
 
@@ -46,7 +46,7 @@ We’ll focus on the (human) cell again. Cells that perform [cellular respiratio
 
 There are three main steps in cellular respiration: **glycolysis, the Krebs cycle, and the Electron Transport Chain.**
 
-**Glycolysis** is where glucose (glyco-) is broken down (-lysis) into two identical molecules called pyruvate. The glucose being broken down releases energy in the process (called catabolism). This energy is harnessed through electrons, which are picked up by electron carriers.
+**Glycolysis** is where glucose (glyco-) is broken down (-lysis) into two identical molecules called pyruvate. The glucose being broken down releases energy in the process. This energy is harnessed through electrons, which are picked up by electron carriers.
 
 The pyruvate is then recycled through the **Krebs cycle**, where carbon dioxide is produced, and more electrons are harnessed.
 
@@ -54,7 +54,7 @@ The electron carriers then bring those electrons into the **Electron Transport C
 
 Cellular respiration can also be done with carbohydrates, fats, and proteins! Carbohydrates are derivatives of glucose, so they can be used in respiration after being broken down. Fats are also broken down, and their components can be used in different parts of the respiration steps. Proteins are a little more complicated, since breaking them down results in the production of ammonia, which is [eventually removed from the body through your pee](https://www.livestrong.com/article/74411-frequent-urination-during-highprotein-diet/).
 
-*What is ATP used for?* It’s used to drive chemical reactions that require energy. Anabolism is the part of metabolism where larger, more complex molecules are built, and requires energy to do so. If catabolism is like quickly kicking over a built Lego set into pieces, anabolism is meticulously rebuilding a Lego set into a different model.
+*What is ATP used for?* It’s used to drive chemical reactions that require energy. Anabolism is the part of metabolism where larger, more complex molecules are built, and requires energy to do so. If catabolism is like quickly kicking over a built Lego set into pieces, anabolism is meticulously rebuilding the pile of Legos into a different model arrangement.
 
 #### Different ways to get energy
 
