@@ -11,6 +11,10 @@ description: A tome of knowledge, experience, and opportunity.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
+# Render any blog posts with a future date
+# https://jekyllrb.com/docs/configuration/options/
+future: true
+
 #
 # Flags below are optional
 #
