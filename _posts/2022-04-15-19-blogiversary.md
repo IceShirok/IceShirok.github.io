@@ -28,9 +28,8 @@ With COVID-19 cases being relatively low and stable in NYC, I (safely) met up wi
 
 In the meanwhile, I've been going through a small list of video games - [one that hits a sweet spot of nostalgia](https://legends.pokemon.com/en-us/), [a clever point-and-click adventure game that hits sociopolitical topics with tongue-and-cheek](https://discoelysium.com/), and [another replay of a charming waterfowl puzzler](https://goose.game/). I've also started catching up on the Stormlight Chronicles novel series as a bedtime reading. Nothing like cuddling with the kitty while immersing myself into a unique fantasy universe.
 
-<a href="https://www.youtube.com/watch?v=_CCvpDwtpjE" target="_blank">
 <div style="text-align:center"><img src="/images/blog19/blog19-honk.jpg" width="350"></div>
-  </a>
+<a href="https://www.youtube.com/watch?v=_CCvpDwtpjE" target="_blank">Honk.</a>
 
 ### What I’ve learned
 
