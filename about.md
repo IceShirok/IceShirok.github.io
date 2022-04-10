@@ -14,15 +14,17 @@ Some random things that I enjoy doing:
 * Learning all sorts of things.
 * Walking and hiking, especially through nature.
 * Games of many sorts - tabletop and video!
-* Illustrations and worldbuilding.
+* Illustrating and writing to get the ideas out of my head.
 * Food, lots of food.
 * Housekeeping for my cat.
 
-I'm currently based off of New York City, and grew up in the suburbs of northern Georgia. I've been working as a software/data engineer for a handful of years. (As of May 2021) I'm currently taking a gap year off of work.
+I'm currently based in New York City, and grew up in the suburbs of northern Georgia. I've been working as a software/backend engineer for a handful of years. From May 2021 to Feb 2022, I've taken a gap year off of work to learn more about the world, learn more about myself, and chill. Currently, I'm working as a senior software engineer.
 
 ### About War(un)lock
 
 <img src="/images/warunlock_logo.png" width="250" />
+
+Welcome to War(un)lock! It is my personal blog where I write monthly blog posts about what I've done, what I've learned, and what I've see over the past month. Occasionally, I'll write a "deep lore" blog post around a topic in-depth. While this blog was going to be limited to the gap year, I've decided to keep it going for at least another year.
 
 #### The Background
 
