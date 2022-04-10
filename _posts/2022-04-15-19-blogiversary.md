@@ -64,7 +64,7 @@ In contrast, a living organism is like a massive ecosystem of specialized system
 
 [**Cholera** is known to rapidly kill people due to rapid dehydration.](https://www.cdc.gov/cholera/illness.html) The bacteria that survives the passage through the acidic stomach hangs out and multiplies in the intestines. The bacteria produces a toxin that causes an overdrive of a certain signaling pathway, which causes excessive water and electrolytes to leak out of the intestines and out of the body.
 
-The pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clostridium) include bacteria responsible for causing botulism and tetanus, gas gangrene, and (formerly, from a taxonomy perspective) *C. difficile* infection (CDI). They also primarily cause disease by 1) colonizing within the human body, and 2) producing toxins based on a critical mass of bacteria. The pathogens that cause botulism and tetanus produce toxins that "blocks" the signals for muscle cells and neurons to communicate with each other, which results in paralysis. They can kill a person before treatment can be delivered on time, since treatments of such diseases require both an antibiotic to kill the bacterial population, AND an antitoxin to get rid of the toxin buildup.
+The pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clostridium) include bacteria responsible for causing botulism and tetanus, gas gangrene, and (formerly, from a taxonomy perspective) *C. difficile* infection (CDI). They also primarily cause disease by 1) colonizing within the human body, and 2) producing toxins based on a critical mass of bacteria. The pathogens that cause botulism and tetanus produce toxins that "block" the signals for muscle cells and neurons to communicate with each other, which results in paralysis and death. They can kill a person before treatment can be delivered on time, since treatments of such diseases require both an antibiotic to kill the bacterial population, AND an antitoxin to get rid of the toxin buildup.
 
 #### Communication gone awry - confusion of the self
 
@@ -72,15 +72,15 @@ The pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clo
 
 **Allergies** occur because [the body's immune system is overreacting to a normally-harmless allergen](https://en.wikipedia.org/wiki/Type_I_hypersensitivity). The immune system has to be careful to balance between:
 1) responding to a legitimate threat (or become damaged by the threat)
-2) ignoring a non-threatening object (or cause allergies)
-3) not attacking body cells (or cause autoimmune disorders)
-4) ...unless they're cancerous cells (but that's even more complicated than what I'll cover).
+2) ignoring a non-threatening object (or cause an allergic reaction)
+3) not attacking body cells (or cause an autoimmune disorder)
+4) ...unless they're cancerous cells (which involves some backdoor mechnisms, but that's even more complicated than what I'll cover).
 
-**Type 1 diabetes** is an example of an autoimmune disorder. Unlike Type 2 diabetes, which can be controlled through diet and exercise (depends on the situation), Type 1 diabetes is caused by the person's antibodies attacking the pancreas. [The pancreas is no longer able to produce insulin at all](https://www.cdc.gov/diabetes/basics/what-is-type-1-diabetes.html), resulting in the person needing to inject insulin regularly so the body cells knows to take up insulin.
+**Type 1 diabetes** is an example of an autoimmune disorder. Unlike Type 2 diabetes, which can be controlled through diet and exercise (depends on the situation), Type 1 diabetes is caused by the person's antibodies attacking the pancreas. [The pancreas is no longer able to produce insulin at all](https://www.cdc.gov/diabetes/basics/what-is-type-1-diabetes.html), resulting in the person needing to inject insulin regularly so the body cells knows to take up blood sugar.
 
 #### Communication gone awry - medicine
 
-**Antibiotics target bacteria without largely affecting humans**. Why's that? It turns out, bacteria have different structures from human cells. They are so different that, in most cases, antibiotics can target bacteria without affecting human cells. This is also why [antibiotics don't work on viruses](https://www.cdc.gov/antibiotic-use/q-a.html) - viruses are structured so differently from living cells, while also adapting extremely quickly to immune responses.
+**Antibiotics target bacteria without largely affecting humans**. Why's that? It turns out, bacteria have different structures from human cells. They are so different that, in most cases, antibiotics can target bacteria without affecting human cells. This is also why [antibiotics don't work on viruses](https://www.cdc.gov/antibiotic-use/q-a.html) - viruses are structured very differently from living cells, while also adapting extremely quickly to immune responses.
 
 **Prescription drugs** are synthesized to target certain receptors within the human body. However, we don't fully understand all the receptors and resultant mechanisms in the human body. Also, each human have different variations of such receptors. This can result in [a prescription drug potential causing side effects that vary from person to person](https://www.fda.gov/drugs/information-consumers-and-patients-drugs/finding-and-learning-about-side-effects-adverse-reactions). These interactions can get more complicated when taking multiple medications or pre-existing conditions - so always talk to your doctor!
 
