@@ -7,6 +7,19 @@ Hi folks, welcome to **War(un)lock blog #19** and I'm celebrating this blog's fi
 
 <div style="text-align:center"><img src="/images/blog19/blog19-colin-caterpillar.jpg" width="350"></div>
 
+While the gap year has ended early, the blog is still very much live. You can read [the blog post X-Intercept](https://www.warunlock.com/10-xintercept/) to get the highlights of the first ten blog posts. You can also read about some fascinating facts about aspirin and see some progress pictures of my herb garden. (Spoilers, the herb garden never came to fruition.)
+
+Here are the other highlights of the previous blog posts:
+* [Deep Lore - CKAD Exam Prep](https://www.warunlock.com/11-extra-ckad-prep/) - A guide on how I prepared for the CKAD, a certification test for Kubernetes. Very technical! (Spoilers, I passed the exam!)
+* [In-flight](https://www.warunlock.com/11-inflight/) - I've catalogued many larger tasks I've been doing in NYC, then debuted a three-part series on electricity.
+* [Home Is Where the Heart Is](https://www.warunlock.com/12-home/) - I introduce my new housemate and boss cat, Monty! I also relate electricity with Ohm's Law, and how electrical energy acts as an intermediary energy source. (Bonus - the title also references [a t-shirt that I've meaning to get](https://shop.critrole.com/products/caleb-home-is-where-the-heart-is-t-shirt)!)
+* [Spoopy Times](https://www.warunlock.com/13-spoopy-times/) - It's Halloween! I wrap up the electricity deep dive with circuits, while I excuse myself with posting more adorable cat pics.
+* [Deep Lore - Hospital Volunteering](https://www.warunlock.com/14-extra-volunteering/) - This is another deep dive blog reflecting on my ~9 months volunteering in a hospital. It's been a great experience to learn about healthcare, as well as help the patients and staff.
+* [Looking Back](https://www.warunlock.com/15-looking-back/) - The last blog post of 2021! This bigger-than-usual blog post reflects on all the planned projects I've completed or dropped, as well as some unplanned projects I've done as a result of the gap year. I also get into my data analytic side and post a bunch of charts around my budgeting and study hours.
+* [Peppermint Mocha](https://www.warunlock.com/16-peppermint-mocha/) - The first blog post of 2022! The COVID-19 Omicron variant has thrown a wrench in my plans, but I've been able to occupy myself with other tasks. I also start another three-part series around what we eat and why we eat!
+* [Eye of the Tiger](https://www.warunlock.com/17-eye-of-the-tiger/) - I celebrate Chinese New Year my making some dumplings. I then talk about the concept of metabolism and how it works in a human and cell levels.
+* [Firehose](https://www.warunlock.com/18-firehose/) - I celebrate March with the completion of Dark Souls and one month into a new job! I then talk about the central dogma of molecular biology, and how biotechnology uses that knowledge to keep people healthy.
+
 ### What I’ve been up to
 
 TBD
