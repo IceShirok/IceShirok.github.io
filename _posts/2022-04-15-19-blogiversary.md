@@ -22,13 +22,15 @@ Here are the other highlights of the previous blog posts:
 
 ### What I’ve been up to
 
-*Well, this is awkward.* Since I'm now working a full-time software engineering job, my monthly happenings will be more boring than usual. Since, you know, I can't just go to a museum on a random Thursday afternoon. (I mean, I could, but I try to be a responsible citizen.) But that's okay too!
+*Well, this is awkward.* Since I'm now working a full-time software engineering job, my monthly happenings will be more boring than usual. Since, you know, I can't just go to a museum on a random Thursday afternoon. (I mean, I could, but I try to be a responsible person.) But that's okay too!
 
 With COVID-19 cases being relatively low and stable in NYC, I (safely) met up with various coworkers and friends this month. I was too eager to take any pictures for prosperity (and also for privacy reasons). Also, not being acclimated to traveling and socializing with colleagues in-person has resulted in my introverted soul resting long after each social event. That meant more takeout and breaks as I continue adjusting to work life and doing my adulting tasks.
 
 In the meanwhile, I've been going through a small list of video games - [one that hits a sweet spot of nostalgia](https://legends.pokemon.com/en-us/), [a clever point-and-click adventure game that hits sociopolitical topics with tongue-and-cheek](https://discoelysium.com/), and [another replay of a charming waterfowl puzzler](https://goose.game/). I've also started catching up on the Stormlight Chronicles novel series as a bedtime reading. Nothing like cuddling with the kitty while immersing myself into a unique fantasy universe.
 
+<a href="https://www.youtube.com/watch?v=_CCvpDwtpjE" target="_blank">
 <div style="text-align:center"><img src="/images/blog19/blog19-honk.jpg" width="350"></div>
+  </a>
 
 ### What I’ve learned
 
@@ -42,15 +44,34 @@ Did you know that cells can communicate? In fact, it is part of the essential as
 
 Cells have receptors that bind to a specific ligand with a very specific shape. A bound receptor triggers one of three responses: 1) amplification of the signal, 2) gene expression, or 3) terminating a signal.
 
-Bacteria can form biofilms to increase their collective survival by surrounding themselves in a protective slime layer and sharing resources. They are able to coordinate the collective action through quorum sensing (for the tech-saavy, not unlike peer-to-peer networking).
+[Bacteria can form biofilms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) to increase their collective survival by surrounding themselves in a protective slime layer and sharing resources. They are able to coordinate the collective action through [quorum sensing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543102/) (for the tech-saavy, not unlike peer-to-peer networking).
 
 In contrast, a living organism is like a massive ecosystem of specialized systems working together (for the tech-saavy, something like a complex, distributed fleet of services). Some problems, such as a small scrape on the skin, can be handled locally. Other problems, such as hunger or a developing cold, requires coordination of multiple organ systems. These organ systems can be rapidly signalled through the nervous system, or slowly messaged through the endocrine and cardiovascular systems.
 
 #### Communication gone awry
 
-While the human body, and really any living being, is a marvel on its complexity.
+While the human body, and really any living being, is a marvel on its complexity. While the body does a pretty good job fixing itself and adapting to various stimuli, it's not perfect.
 
-#### Example - the *Clostridium* genus
+Pathogens can be identified by "antigens", which the immune system can "remember" to defend against in a future infection. How? Immune cells build up receptors that adapt to the antigen. Pathogens that can rapidly change their antigens so that they can't lock onto the receptor, and thus the pathogen evades detection for some time.
+
+Type 2 diabetes and insulin resistance
+
+Prescription drug and unknown receptor triggers due to human body differences
+
+Cholera and overamplification of cAMP - result in high death rate
+
+#### The *Clostridium* genus
+
+We humans live in a world of microscopic bacteria. We often hear about bacteria as the "bad guys", but there are plenty that are also helpful for humans. There are plenty of bacteria that [help fix nitrogen from the air to a usable form for all living beings](https://www.nature.com/scitable/knowledge/library/biological-nitrogen-fixation-23570419/), [create delicious fermented milk in forms such as yogurts and cheeses](http://www.brewstercheese.com/how-swiss-cheese-is-made), [hang out in our gastrointestinal tract to help digest food and produce vitamin K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983973/), and so much more.
+
+BUT, we will talk about the pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clostridium). They include bacteria responsible for causing botulism, tetanus, gas gangrene, and (formerly, from a taxonomy perspective) *C. difficile* infection (CDI). They all primarily cause disease by 1) colonizing within the human body, and 2) producing toxins based on a critical mass of bacteria.
+
+These bacteria are particularly dangerous because:
+* They can form endospores, which acts like a hibernation state encased in a super strong shield. Like, it requires an enormous amont of heat and pressure to properly destroy endospores.
+* Treatments of such diseases require both an antibiotic to kill the bacterial population, AND an antitoxin to get rid of the toxin buildup.
+* Some toxins are so potent that they can kill a person before treatment can be delivered on time.
+
+In addition, these toxins "blocks" the signals for muscle cells and neurons to communicate with each other, which results in paralysis.
 
 ### What I’ve seen
 
