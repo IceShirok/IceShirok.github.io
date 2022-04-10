@@ -22,7 +22,13 @@ Here are the other highlights of the previous blog posts:
 
 ### What I’ve been up to
 
-TBD
+*Well, this is awkward.* Since I'm now working a full-time software engineering job, my monthly happenings will be more boring than usual. Since, you know, I can't just go to a museum on a random Thursday afternoon. (I mean, I could, but I try to be a responsible citizen.) But that's okay too!
+
+With COVID-19 cases being relatively low and stable in NYC, I (safely) met up with various coworkers and friends this month. I was too eager to take any pictures for prosperity (and also for privacy reasons). Also, not being acclimated to traveling and socializing with colleagues in-person has resulted in my introverted soul resting long after each social event. That meant more takeout and breaks as I continue adjusting to work life and doing my adulting tasks.
+
+In the meanwhile, I've been going through a small list of video games - [one that hits a sweet spot of nostalgia](https://legends.pokemon.com/en-us/), [a clever point-and-click adventure game that hits sociopolitical topics with tongue-and-cheek](https://discoelysium.com/), and [another replay of a charming waterfowl puzzler](https://goose.game/). I've also started catching up on the Stormlight Chronicles novel series as a bedtime reading. Nothing like cuddling with the kitty while immersing myself into a unique fantasy universe.
+
+<div style="text-align:center"><img src="/images/blog19/blog19-honk.jpg" width="350"></div>
 
 ### What I’ve learned
 
