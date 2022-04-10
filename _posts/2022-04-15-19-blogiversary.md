@@ -48,30 +48,25 @@ Cells have receptors that bind to a specific ligand with a very specific shape. 
 
 In contrast, a living organism is like a massive ecosystem of specialized systems working together (for the tech-saavy, something like a complex, distributed fleet of services). Some problems, such as a small scrape on the skin, can be handled locally. Other problems, such as hunger or a developing cold, requires coordination of multiple organ systems. These organ systems can be rapidly signalled through the nervous system, or slowly messaged through the endocrine and cardiovascular systems.
 
-#### Communication gone awry
+#### Communication gone awry - pathogens
 
-While the human body, and really any living being, is a marvel on its complexity. While the body does a pretty good job fixing itself and adapting to various stimuli, it's not perfect.
+While the human body, and really any living being, is a marvel on its complexity. While the body does a pretty good job fixing itself and adapting to various stimuli, it's not perfect. In some cases, this is because of a communication breakdown of the targeted cells. Let's see some examples of how various scenarios involving receptors can cause disease.
 
-Pathogens can be identified by "antigens", which the immune system can "remember" to defend against in a future infection. How? Immune cells build up receptors that adapt to the antigen. Pathogens that can rapidly change their antigens so that they can't lock onto the receptor, and thus the pathogen evades detection for some time.
+**Pathogens can be identified by "antigens"**, which the immune system can "remember" to defend against in a future infection. How? Immune cells build up receptors that adapt to the antigen. Pathogens that can rapidly change their antigens so that they can't lock onto the receptor. The immune system considers this pathogen a "new" invader and has to spend time building up a new response. This gives the pathogen more time to infect and wreck havoc.
 
-Type 2 diabetes and insulin resistance
+[**Cholera** is known to rapidly kill people due to rapid dehydration.](https://www.cdc.gov/cholera/illness.html) The bacteria hangs out in the intestines. The bacteria produces a toxin that causes an overdrive of a certain mechanism, which causes water to leak out of the intestines.
 
-Prescription drug and unknown receptor triggers due to human body differences
+The pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clostridium) include bacteria responsible for causing botulism, tetanus, gas gangrene, and (formerly, from a taxonomy perspective) *C. difficile* infection (CDI). They all primarily cause disease by 1) colonizing within the human body, and 2) producing toxins based on a critical mass of bacteria. These toxins "blocks" the signals for muscle cells and neurons to communicate with each other, which results in paralysis. They can kill a person before treatment can be delivered on time, since treatments of such diseases require both an antibiotic to kill the bacterial population, AND an antitoxin to get rid of the toxin buildup.
 
-Cholera and overamplification of cAMP - result in high death rate
+#### Communication gone awry - confusion of the self
 
-#### The *Clostridium* genus
+**Type 2 diabetes** is caused by "insulin resistance", or that body cells don't respond to the signal of insulin in the bloodstream. Because the body cells don't respond to insulin as well, they don't know to start consuming glucose from the bloodstream, and thus blood sugar remains at a high level. However, [the exact mechanism why insulin resistance occurs is currently insanely complex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3941218/)
 
-We humans live in a world of microscopic bacteria. We often hear about bacteria as the "bad guys", but there are plenty that are also helpful for humans. There are plenty of bacteria that [help fix nitrogen from the air to a usable form for all living beings](https://www.nature.com/scitable/knowledge/library/biological-nitrogen-fixation-23570419/), [create delicious fermented milk in forms such as yogurts and cheeses](http://www.brewstercheese.com/how-swiss-cheese-is-made), [hang out in our gastrointestinal tract to help digest food and produce vitamin K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983973/), and so much more.
+#### Communication gone awry - medicine
 
-BUT, we will talk about the pathogens within the [*Clostridium* genus](https://en.wikipedia.org/wiki/Clostridium). They include bacteria responsible for causing botulism, tetanus, gas gangrene, and (formerly, from a taxonomy perspective) *C. difficile* infection (CDI). They all primarily cause disease by 1) colonizing within the human body, and 2) producing toxins based on a critical mass of bacteria.
+**Antibiotics target bacteria without largely affecting humans**. Why's that? It turns out, bacteria have different structures from human cells. They are so different that, in most cases, antibiotics can target bacteria without affecting human cells.
 
-These bacteria are particularly dangerous because:
-* They can form endospores, which acts like a hibernation state encased in a super strong shield. Like, it requires an enormous amont of heat and pressure to properly destroy endospores.
-* Treatments of such diseases require both an antibiotic to kill the bacterial population, AND an antitoxin to get rid of the toxin buildup.
-* Some toxins are so potent that they can kill a person before treatment can be delivered on time.
-
-In addition, these toxins "blocks" the signals for muscle cells and neurons to communicate with each other, which results in paralysis.
+**Prescription drugs** are synthesized to target certain receptors within the human body. However, we don't fully understand all the receptors and resultant mechanisms in the human body. Also, each human have different variations of such receptors. This can result in a prescription drug potential causing side effects that vary from person to person.
 
 ### What I’ve seen
 
@@ -79,9 +74,10 @@ In addition, these toxins "blocks" the signals for muscle cells and neurons to c
 
 After morning standup, I go to the kitchen to refill my cup of tea. My home boss will sometimes seize the opportunity to get into his chair and tell me to stop talking to my computer.
 
-Also here are some random articles I've come across. I typically don't like posting a mass of random articles, but I found these enjoyable.
-* [What does niceness vs. kindness mean?](https://haleynahman.substack.com/p/42-are-you-nice-or-kind) and how it applies to our lives.
+Also here are some random articles I've come across this month. I typically don't like posting a mass of random articles, but I found these interesting to read.
+* [What does niceness vs. kindness mean?](https://haleynahman.substack.com/p/42-are-you-nice-or-kind) ft. some New York City culture speculation.
 * [Uncleftish Beholding](https://msburkeenglish.files.wordpress.com/2010/04/uncleftish-beholding-aka-atomic-theory.pdf), or a short essay on explaining atomic theory without using any borrowed Germanic words.
+* [RaDonda Vaught trial](https://www.npr.org/sections/health-shots/2022/03/25/1088902487/former-nurse-found-guilty-in-accidental-injection-death-of-75-year-old-patient) and the potential consequences of the precedent.
 
 ### A chapter closed
 
