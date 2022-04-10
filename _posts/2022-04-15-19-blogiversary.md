@@ -44,6 +44,8 @@ Did you know that cells can communicate? In fact, it is part of the essential as
 
 Cells have receptors that bind to a specific ligand with a very specific shape. A bound receptor triggers one of three responses: 1) amplification of the signal, 2) gene expression, or 3) terminating a signal.
 
+<div style="text-align:center"><img src="/images/blog19/blog19-signaling-pathway.JPG" width="350"></div>
+
 [Bacteria can form biofilms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2732559/) to increase their collective survival by surrounding themselves in a protective slime layer and sharing resources. They are able to coordinate the collective action through [quorum sensing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543102/) (for the tech-saavy, not unlike peer-to-peer networking).
 
 In contrast, a living organism is like a massive ecosystem of specialized systems working together (for the tech-saavy, something like a complex, distributed fleet of services). Some problems, such as a small scrape on the skin, can be handled locally. Other problems, such as hunger or a developing cold, requires coordination of multiple organ systems. These organ systems can be rapidly signalled through the nervous system, or slowly messaged through the endocrine and cardiovascular systems.
@@ -53,6 +55,8 @@ In contrast, a living organism is like a massive ecosystem of specialized system
 While the human body, and really any living being, is a marvel on its complexity. While the body does a pretty good job fixing itself and adapting to various stimuli, it's not perfect. In some cases, this is because of a communication breakdown of the targeted cells. Let's see some examples of how various scenarios involving receptors can cause disease.
 
 **Pathogens can be identified by "antigens"**, which the immune system can "remember" to defend against in a future infection. How? Immune cells build up receptors that adapt to the antigen. Pathogens that can rapidly change their antigens so that they can't lock onto the receptor. The immune system considers this pathogen a "new" invader and has to spend time building up a new response. This gives the pathogen more time to infect and wreck havoc.
+
+<div style="text-align:center"><img src="/images/blog19/blog19-antigenic-drift.JPG" width="350"></div>
 
 [**Cholera** is known to rapidly kill people due to rapid dehydration.](https://www.cdc.gov/cholera/illness.html) The bacteria hangs out in the intestines. The bacteria produces a toxin that causes an overdrive of a certain mechanism, which causes water to leak out of the intestines.
 
