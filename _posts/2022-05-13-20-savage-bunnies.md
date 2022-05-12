@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogiversary
+title: Savage Bunnies
 ---
 
 Hi folks, welcome to **War(un)lock blog #20**! I'm enjoying the spring with a vacation to the southeast and avoiding the horrible, cold rain that had plagued NYC until recently. It's time to pack the winter coats and unpack the antihistamine medication.
