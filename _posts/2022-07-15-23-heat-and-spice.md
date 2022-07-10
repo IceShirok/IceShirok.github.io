@@ -25,6 +25,8 @@ As a small child, I really really didn’t like to cook. By the time I got to co
 
 <div style="text-align:center"><img src="/images/blog23/blog23-snacks.jpg" width="350"></div>
 
+<div style="text-align:center"><i>How I used to cook.</i></div>
+
 As I began my post-graduation journey in New York City, I of course cut my costs of dining and takeout by cooking regularly. And it turned out that, now with a professional salary, I could buy ingredients that can actually make good food! I slowly but surely got in the cooking practice. My chopping and mincing skills got faster and more efficient. With a little bit of planning, I could make some tender, flavorful meat through overnight seasoning and marinating. I learned recipes through online articles and cookbooks, as well as inspiration from my dining experiences.
 
 It wasn’t until the pandemic that my cooking skills really took off (before I really got into the takeout and delivery train) and I’ve actually took photos of my cooking.
@@ -42,6 +44,8 @@ I can say that my cuisines of choice are:
 
 <div style="text-align:center"><img src="/images/blog23/blog23-dumplings.jpg" width="350"></div>
 
+<div style="text-align:center"><i>Homemade dumplings (gyoza).</i></div>
+
 I’ve also dabbled in other recipes of various cultures such as Greek salad, a [borscht](https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/), [Italian carbonara](https://www.epicurious.com/recipes/food/views/carbonara-em-guanciale-egg-and-pecorino-romano-em-51221420), a [shepherd’s pie](https://www.simplyrecipes.com/recipes/easy_shepherds_pie/), and much more.
 
 Strangely, a type of food **I just can’t get right are soups**, partially because I don’t like to drink soup regularly. I’ve been able to make borscht and [beef stew](https://www.spendwithpennies.com/beef-stew-recipe/), but very rarely. I’ve recently been successful with making [miso soup](https://www.justonecookbook.com/homemade-miso-soup/) from scratch, but they also require a lot of ingredients to have beforehand.
@@ -55,6 +59,8 @@ My journey into cooking started with my dad teaching me [how to cook eggs](https
 Soon, you'll realize how many recipes have eggs - for baking, soups, and even sauces! I always have a carton of eggs in my fridge at the ready. (And my cat is happy to get the cardboard carton once the eggs run out.)
 
 <div style="text-align:center"><img src="/images/blog23/blog23-chinese.jpg" width="350"></div>
+
+<div style="text-align:center"><i>Tomato and eggs, cucumbers, and scallion pancakes.</i></div>
 
 ### The spice of life
 
@@ -74,9 +80,11 @@ With the exceptions of salads, I’ve always preferred to **eat cooked vegetable
 
 **Stirfry** has been the savior of cooked vegetables for me. Pick some good vegetables to stirfry (like bell peppers, green beans, broccoli, etc). Throw some diced scallions, ginger, and garlic into the hot oil to get the flavor in. If you’re partial for meat, throw in some ground pork and soy sauce as well. Then stirfry the vegetables, add some other spices - and boom! (Sometimes, I’ll blanch the stirfry vegetables for a minute before stiryfrying. This was, I don’t burn the vegetables in the attempt to avoid undercooking them.)
 
-**Roasting** has also been an easy cooking skill, since you toss the vegetables with oil and seasoning, then throw the pan of veggies into the oven and let them cook.
+**Roasting** has also been an easy cooking skill, since you toss the vegetables with oil and seasoning, then throw the pan of veggies into the oven and let them cook. Then I can relax (just kidding, I'm always nervous of setting off the smoke detector) and wait for the aroma to wafer from the kitchen.
 
 <div style="text-align:center"><img src="/images/blog23/blog23-pasta_salad.jpg" width="350"></div>
+
+<div style="text-align:center"><i>Vegetarian pasta salad in-progress.</i></div>
 
 ### Cook hot meat
 
@@ -85,9 +93,9 @@ Meats had been a struggle to cook for me for two reasons:
 1. Unless I was making stirfry and dicing the meat, it was really hard for me to know **if the meat was cooked thoroughly**.
 2. The meats I’ve cooked tend to turn out **flavorless**, even if I added the spices to the meats in the pan.
 
-For the first point, I learned a cool tip from a second cousin, who is a professional chef, called the [sear roasting method](https://www.allrecipes.com/article/how-to-sear-meats/). With an oven-proof skillet, you sear your meat for a few minutes. Then, place the skillet into a heated oven for around 8 minutes. Lastly, place the skillet back to the stovetop and sear the other side of the meat. It’s solved so many of my issues overcooking the surface and undercooking the center!
+For the first point, I learned a cool tip from a second cousin, who is a professional chef, called the [sear roasting method](https://www.allrecipes.com/article/how-to-sear-meats/). With an oven-proof skillet, you sear your meat for a few minutes. Then, place the skillet into a heated oven for around 8 minutes. Lastly, place the skillet back to the stovetop and sear the other side of the meat. It’s solved so many of my issues overcooking the surface and undercooking the center for all sorts of meats!
 
-For the second part, it boiled down to some chemistry and physics that I’ve learned from Salt Fat Acid Heat - **season your meats ahead of time**! Salt should ideally be applied to chicken at least an hour before cooking it, so the salt can penetrate deeper into the chicken. Fish don’t need as much sitting time for seasoning.
+For the second part, it boiled down to some chemistry and physics that I’ve learned from Salt Fat Acid Heat - **season your meats ahead of time**! Salt should ideally be applied to chicken at least an hour before cooking it, so the salt can penetrate deeper into the chicken. In contrast, fish don’t need as much sitting time for seasoning. But if I don't have the time, then seasoning the meat before putting it over heat is always better than not at all!
 
 ### Imitation is flattery
 
@@ -95,11 +103,13 @@ Much of my cooking was derived from attempting to **mimic especially good food**
 
 <div style="text-align:center"><img src="/images/blog23/blog23-carbonara.jpg" width="350"></div>
 
+<div style="text-align:center"><i>Carbonara and Greek salad, because I was inspired to make both recipes.</i></div>
+
 Indian cuisine is one type where I simply will resign to ordering takeout for. I’ve made chai tea, biryani, and sweet rice pudding. They were all edible, but there were flavors missing from me substituting some ingredients that I could not procure myself. I'll leave this to the professionals.
 
 ### Practice practice practice
 
-Of course, **practice makes perfect**. The more you chop, the better you’ll get to chopping. The more you cook the same recipe, the more confident you are to start making tweaks to the recipe based on your preferences.
+Of course, **practice makes perfect**. The more you chop, the better you’ll get to chopping. The more you cook the same recipe, the more confident you are to start making tweaks to the recipe based on your preferences. Just choose a cuisine or a set of dishes you would enjoy eating, then rinse and repeat!
 
 **Inevitably, you’ll screw up on a recipe** and end up with inedible food. (For me - I undercooked a soft-boiled egg, messed up the roux and now have a milk/cheese soup for [mac and cheese](https://www.momontimeout.com/best-homemade-baked-mac-and-cheese-recipe/), or I mixed up salt for sugar in a [cranberry sauce](https://www.simplyrecipes.com/recipes/cranberry_sauce/) recipe.) If that piece is an accessory part of your recipe, then at least you still have food to eat. If you mess up an entire meal… well, that’s what frozen meals and takeout are for.
 
