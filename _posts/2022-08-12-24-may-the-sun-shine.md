@@ -51,10 +51,10 @@ The kidneys are one of several organs that filter blood in the cardiovascular sy
 
 Now that you’ve learn how the kidneys are structured (anatomy) and what they do (physiology), let’s learn why CKD is such a hgue problem. These tiny blood vessels, responsible for filtering out waste products and reabsorbing nutrients, [are very sensitive.](https://vascularcures.org/vascular_diseases/kidney-failure-and-vascular-disease/) Damage to the kidneys results in the bloodstream not being able to filter out excess resources or wastes properly.
 
+<div style="text-align:center"><img src="/images/blog24/blog24-kidney_disease.png" width="350"></div>
+
 - They can get damaged when filtering an extreme amount of substances - which can include a large amount of substances, or a low amount of water (from dehydration). Diabetes is a disease that introduces the risk of high blood sugar (glucose), which can [damage the blood vessels](https://www.cdc.gov/diabetes/managing/diabetes-kidney-disease.html) (among the kidneys as well as the eyes) from the excess sugar. Those with kidney (or liver) disease also require a smaller dosage of medication, since they cannot filter medications from their bloodstream as efficiently.
 - [High blood pressure can also damage blood vessels.](https://www.kidney.org/news/newsroom/factsheets/High-Blood-Pressure-and-CKD) Blood vessels are normally elastic, but excess stretching from the pressure and plaque buildup can wear down blood vessels over time. The filtration damage can also lead to water retention (not being able to excrete water or sodium), further raising blood pressure in a vicious cycle.
-
-<div style="text-align:center"><img src="/images/blog24/blog24-kidney_disease.png" width="350"></div>
 
 Those with chronic kidney disease may need to perform [hemodialysis](https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/hemodialysis) every few days. This process involves the use of a dialysis machine to filter a person’s blood. A [kidney transplant](https://www.kidney.org/atoz/content/kidney-transplant) is other potential solution, but comes with the risks of organ transplant and a long waitlist. In recent years, [an artificial kidney](https://www.kidneyx.org/) is being developed as an alternative to hemodialysis and kidney transplantation.
 
@@ -66,11 +66,9 @@ Learning about kidneys, what they do, and why they’re such a big deal have bee
 
 # What I’ve seen
 
-I’ve also come across a little farm for my Airbnb! I was originally planning to stay in a hotel, but some late-night browsing brought this gem to my attention. I stayed in a cozy red cabin with a bed on a loft, a kitchen with fresh farm eggs, and a compostable toilet. Every morning, I would walk to the green pastures to meet the chickens and goats, then be greeted by curious pigs. And on nights that didn’t rain, I would lay in a hammock and take in the sounds of frogs croaking and insects chirping.
+I’ve come across a little farm as an Airbnb stay for a short vacation out of town! I was originally planning to stay in a hotel, but some late-night browsing brought this gem to my attention. I stayed in a cozy red cabin with a bed on a loft, a kitchen with fresh farm eggs, and a compostable toilet. Every morning, I would walk to the green pastures to meet the chickens and goats, then be greeted by curious pigs. And on nights that didn’t rain, I would lay in a hammock and take in the sounds of frogs croaking and insects chirping.
 
-…but I’ve accidentally deleted all of those photos, not knowing they hadn’t been backed up on my cloud storage. ☹️ I did have a stroke of luck and had some lesser quality photos saved in my smartphone’s trash.
-
-I usually try to appreciate the sights and sounds to memory, and take pictures should my memory fail to remember the visuals. Having lost most of the photos bummed me out for some time, but that only meant that I needed to book that Airbnb again in the near-future!
+...but I’ve accidentally deleted all of those photos, as I had mistakenly thought they had been backed up on my cloud storage. ☹️ I fortunately had a stroke of luck and had some lesser quality photos saved in my smartphone’s trash. I usually try to appreciate the sights and sounds to memory, and take pictures should my memory fail to remember the experience. Having lost most of the photos bummed me out for some time, but that only meant that I needed to book that Airbnb again in the near-future!
 
 <div style="text-align:center"><img src="/images/blog24/blog24-cabin_loft.jpg" height="350"> <img src="/images/blog24/blog24-cabin_porch.jpg" height="350"></div>
 
