@@ -125,7 +125,7 @@ I’ve decided to pick a photo in NYC for each year I’ve been in the Big Apple
 
 <div style="text-align:center"><img src="/images/blog25/blog25-domo_kun.jpg" height="350"></div>
 
-**2017**: I didn't have a lot of photos in 2017, so I took a picture of when I purchased Domo-kun in Tokyo. I've touted Domo with me through my years in NYC on my backpack, and even gotten compliments from strangers!
+**2017**: I didn't have a lot of photos in 2017, so I took a picture of when I purchased Domo-kun in Tokyo. I've carried Domo with me through my years in NYC on my backpack, and even gotten compliments from strangers!
 
 <div style="text-align:center"><img src="/images/blog25/blog25-nycc.jpg" height="350"></div>
 
