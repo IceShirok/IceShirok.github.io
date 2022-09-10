@@ -11,7 +11,7 @@ Well the cat’s out the bag (or out the carrier after a combined 8 hour trip) -
 
 It’s been an eventful 3 months cumulating into a fairly stressful two-day adventure chauffering my confused cat from New York City to Raleigh. However, I can say that I have a roof above my head, a decently-stocked kitchen, and grappling with car ownership.
 
-Why Raleigh? In the long-term, I knew that I would eventually move out of the Northeast. Many friends and family live in the Southeast or the West Coast, and I wasn’t going to move to the West Coast. I was also more accustomed to the warm and humid weather down South. Finally, it’s just so much cheaper to live down here. :shrug:
+Why Raleigh? In the long-term, I knew that I would eventually move out of the Northeast. Many friends and family live in the Southeast or the West Coast, and I wasn’t going to move to the West Coast. I was also more accustomed to the warm and humid weather down South. Finally, it’s just so much cheaper to live down here. ¯\_(ツ)_/¯
 
 # What I’ve learned
 
